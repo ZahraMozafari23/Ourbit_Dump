@@ -1,6 +1,6 @@
 from config import *
 import requests
-
+import json
 
 def get_market():
 
@@ -20,6 +20,22 @@ def get_market():
         return None
 
 
+
+
+def load_peaks():
+
+    try:
+        with open("prices.json", "r") as f:
+            return json.load(f)
+
+    except:
+        return {}
+
+
+def save_peaks(data):
+
+    with open("prices.json", "w") as f:
+        json.dump(data, f, indent=2)
 print("Bot Started")
 
 data = get_market()
