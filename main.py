@@ -4,7 +4,7 @@ import json
 
 def send_message(text):
 
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
+    url = f"https://api.telegram.org/bot8926109992:AAGA2zq1h7wJA0tZ94EEVqmBlg31Elf5gcY/sendMessage"
 
     response = requests.post(
         url,
