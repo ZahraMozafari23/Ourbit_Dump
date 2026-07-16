@@ -70,7 +70,7 @@ if data:
         drop = ((price - peaks[symbol]["peak"]) / peaks[symbol]["peak"]) * 100
 
         if drop <= -10:
-            print(symbol, f"{drop:.2f}%")
+            print("drop fund:", symbol, f"{drop:.2f}%")
 
         
 
