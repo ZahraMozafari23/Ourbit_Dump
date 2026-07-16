@@ -29,10 +29,22 @@ if data:
 
     print("Coins:", len(coins))
 
-    for coin in coins[:5]:
-        print(
-            coin["sb"],
-            coin["c"]
-        )
+    count = 0
+
+for coin in coins:
+
+    symbol = coin["sb"]
+
+    if symbol.startswith("~~"):
+        continue
+
+    price = float(coin["c"])
+
+    print(symbol, price)
+
+    count += 1
+
+    if count == 5:
+        break
 
 print("Finished")
