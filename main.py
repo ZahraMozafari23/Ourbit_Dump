@@ -71,6 +71,7 @@ if data:
         
 
     save_peaks(peaks)
+    print("example:", list(peaks.items())[:3])
     print("seved peaks:", len(peaks))
 
 print("Finished")
