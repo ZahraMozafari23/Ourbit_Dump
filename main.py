@@ -9,13 +9,14 @@ def send_message(text):
 
     for chat_id in [CHAT_ID, CHAT_ID_2]:
         if chat_id:
-
-        response = requests.post(
+              response = requests.post(
             url,
             data={
                 "chat_id": chat_id,
                 "text": text
             }
+
+      
         )
 
     
