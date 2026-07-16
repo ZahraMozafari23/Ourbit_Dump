@@ -69,7 +69,10 @@ if data:
             peaks[symbol]["alerted"] = False
         drop = ((price - peaks[symbol]["peak"]) / peaks[symbol]["peak"]) * 100
 
-        print(symbol, f"{drop:.2f}%")
+        if drop <= -10:
+            print(symbol, f"{drop:.2f}%")
+
+        
 
         
 
