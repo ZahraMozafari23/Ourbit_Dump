@@ -90,6 +90,8 @@ if data:
         elif price > peaks[symbol]["peak"]:
             peaks[symbol]["peak"] = price
             peaks[symbol]["alerted"] = False
+        if peaks[symbol]["peak"] <= 0:
+            continue
         drop = ((price - peaks[symbol]["peak"]) / peaks[symbol]["peak"]) * 100
 
 
