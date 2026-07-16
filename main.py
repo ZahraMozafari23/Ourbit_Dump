@@ -67,6 +67,9 @@ if data:
         elif price > peaks[symbol]["peak"]:
             peaks[symbol]["peak"] = price
             peaks[symbol]["alerted"] = False
+        drop = ((price - peaks[symbol]["peak"]) / peaks[symbol]["peak"]) * 100
+
+        print(symbol, f"{drop:.2f}%")
 
         
 
