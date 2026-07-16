@@ -1,7 +1,7 @@
 from config import *
 import requests
 import json
-CHAT_ID = os.getenv("CHAT_ID")
+
 
 def send_message(text):
 
