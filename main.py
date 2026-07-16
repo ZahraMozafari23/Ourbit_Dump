@@ -76,5 +76,6 @@ if data:
             break
 
     save_peaks(peaks)
+    print("seved peaks:", len(peaks))
 
 print("Finished")
