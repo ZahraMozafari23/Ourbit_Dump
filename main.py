@@ -15,6 +15,7 @@ def send_message(text):
     )
 
     print("Telegram Status:", response.status_code)
+    print(response.text)
 def get_market():
 
     try:
