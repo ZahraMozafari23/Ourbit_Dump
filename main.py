@@ -44,32 +44,37 @@ if data:
     coins = data["data"]
 
     print("Coins:", len(coins))
-peaks = load_peaks()
+
+    peaks = load_peaks()
+
     count = 0
 
-for coin in coins:
+    for coin in coins:
 
-    symbol = coin["sb"]
+        symbol = coin["sb"]
 
-    if symbol.startswith("~~"):
-        continue
+        if symbol.startswith("~~"):
+            continue
 
-    price = float(coin["c"])
-    if symbol not in peaks:
-    peaks[symbol] = {
-        "peak": price,
-        "alerted": False
-    }
+        price = float(coin["c"])
 
-elif price > peaks[symbol]["peak"]:
-    peaks[symbol]["peak"] = price
-    peaks[symbol]["alerted"] = False
+        if symbol not in peaks:
+            peaks[symbol] = {
+                "peak": price,
+                "alerted": False
+            }
 
-    print(symbol, price)
+        elif price > peaks[symbol]["peak"]:
+            peaks[symbol]["peak"] = price
+            peaks[symbol]["alerted"] = False
 
-    count += 1
+        print(symbol, price)
 
-    if count == 5:
-        break
-save_peaks(peaks)
+        count += 1
+
+        if count == 5:
+            break
+
+    save_peaks(peaks)
+
 print("Finished")
