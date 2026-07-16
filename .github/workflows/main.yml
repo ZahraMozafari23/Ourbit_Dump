@@ -26,7 +26,6 @@ jobs:
       - name: Run bot
         run: |
               
-              CHAT_ID: ${{ secrets.CHAT_ID }}
               python main.py
 
       - name: Save prices
