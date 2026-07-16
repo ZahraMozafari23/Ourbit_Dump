@@ -68,12 +68,7 @@ if data:
             peaks[symbol]["peak"] = price
             peaks[symbol]["alerted"] = False
 
-        print(symbol, price)
-
-        count += 1
-
-        if count == 5:
-            break
+        
 
     save_peaks(peaks)
     print("seved peaks:", len(peaks))
