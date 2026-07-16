@@ -2,6 +2,19 @@ from config import *
 import requests
 import json
 
+def send_message(text):
+
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
+
+    response = requests.post(
+        url,
+        data={
+            "chat_id": CHAT_ID,
+            "text": text
+        }
+    )
+
+    print("Telegram Status:", response.status_code)
 def get_market():
 
     try:
@@ -71,10 +84,19 @@ if data:
 
 
         if drop <= -1 and peaks[symbol]["alerted"] == False:
+            message = (
+    "🚨 هشدار دامپ\n\n"
+    f"🪙 {symbol}\n"
+    f"📉 ریزش: {drop:.2f}%\n\n"
+    f"📈 Peak: {peaks[symbol]['peak']}\n"
+    f"💰 قیمت فعلی: {price}"
+)
 
-               print("ALERT:", symbol, f"{drop:.2f}%")
+             send_message(message)
 
-               peaks[symbol]["alerted"] = True
+             peaks[symbol]["alerted"] = True
+
+               
 
         
 
