@@ -85,18 +85,25 @@ if data:
 
         if drop <= -1 and peaks[symbol]["alerted"] == False:
             message = (
-    "🚨 هشدار دامپ\n\n"
-    f"🪙 {symbol}\n"
-    f"📉 ریزش: {drop:.2f}%\n\n"
-    f"📈 Peak: {peaks[symbol]['peak']}\n"
-    f"💰 قیمت فعلی: {price}"
-)
+                "🚨 هشدار دامپ\n\n"
+                f"🪙 {symbol}\n"
+                f"📉 ریزش: {drop:.2f}%\n\n"
+                f"📈 Peak: {peaks[symbol]['peak']}\n"
+                f"💰 قیمت فعلی: {price}"
+            )
 
-send_message(message)
+            send_message(message)
 
-peaks[symbol]["alerted"] = True
+            peaks[symbol]["alerted"] = True
 
-    save_peaks(peaks)
-    print("seved peaks:", len(peaks))
+
+save_peaks(peaks)
+
+print("Saved Peaks:", len(peaks))
 
 print("Finished")
+
+
+            
+
+    
