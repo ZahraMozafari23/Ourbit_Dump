@@ -7,13 +7,19 @@ def send_message(text):
 
     url = f"https://api.telegram.org/bot8926109992:AAGA2zq1h7wJA0tZ94EEVqmBlg31Elf5gcY/sendMessage"
 
-    response = requests.post(
-        url,
-        data={
-            "chat_id": CHAT_ID,
-            "text": text
-        }
-    )
+    for chat_id in [CHAT_ID, CHAT_ID_2]:
+
+    if chat_id:
+
+        response = requests.post(
+            url,
+            data={
+                "chat_id": chat_id,
+                "text": text
+            }
+        )
+
+        print("Telegram Status:", response.status_code)
 
     print("Telegram Status:", response.status_code)
     print(response.text)
