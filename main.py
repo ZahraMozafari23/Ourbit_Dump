@@ -92,15 +92,9 @@ if data:
     f"💰 قیمت فعلی: {price}"
 )
 
-             send_message(message)
+send_message(message)
 
-             peaks[symbol]["alerted"] = True
-
-               
-
-        
-
-        
+peaks[symbol]["alerted"] = True
 
     save_peaks(peaks)
     print("seved peaks:", len(peaks))
