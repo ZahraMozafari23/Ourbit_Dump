@@ -14,6 +14,7 @@ jobs:
     env:
       BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
       CHAT_ID: ${{ secrets.CHAT_ID }}
+      CHAT_ID_2: ${{ secrets.CHAT_ID_2 }}
 
     steps:
       - name: Checkout
