@@ -126,15 +126,14 @@ for coin in coins:
                 "alerted": False
             }
 
-        # اگر سقف جدید ثبت شد فقط هشدار ریست شود
-        if price > peaks[symbol]["peak"]:
-            peaks[symbol]["peak"] = price
-            peaks[symbol]["alerted"] = False
 
         # درصد تغییر 24 ساعته (همان درصد قرمز اوربیت)
         drop = float(coin["r8"]) * 100
 
         print(f"{symbol} | Price={price} | 24H={drop:.2f}%")
+
+        if drop > DROP_PERCENT:
+            peaks[symbol]["alerted"] = False
 
         if drop <= DROP_PERCENT and not peaks[symbol]["alerted"]:
 
