@@ -2,7 +2,7 @@ from config import *
 from datetime import datetime
 import requests
 import json
-import os
+
 
 def load_alive_date():
     try:
@@ -10,6 +10,7 @@ def load_alive_date():
             return json.load(f).get("date", "")
     except:
         return ""
+
 
 def save_alive_date(date):
     with open("alive.json", "w") as f:
@@ -29,16 +30,19 @@ def send_message(text):
                 data={
                     "chat_id": chat_id,
                     "text": text
-                }
+                },
+                timeout=20
             )
 
             print("Telegram Status:", response.status_code)
-            print(response.text)
 
             if response.status_code != 200:
+                print(response.text)
                 success = False
 
     return success
+
+
 def get_market():
 
     try:
@@ -57,14 +61,11 @@ def get_market():
         return None
 
 
-
-
 def load_peaks():
 
     try:
         with open("prices.json", "r") as f:
             return json.load(f)
-
     except:
         return {}
 
@@ -73,12 +74,23 @@ def save_peaks(data):
 
     with open("prices.json", "w") as f:
         json.dump(data, f, indent=2)
+
+
 print("Bot Started")
 
 data = get_market()
 
-if data:
-    coins = data["data"]
+if not data:
+    print("No market data")
+    exit()
+
+coins = data["data"]
+print("Coins:", len(coins))
+
+peaks = load_peaks()
+
+# -------- پیام سلامت روزانه --------
+
 today = datetime.utcnow().strftime("%Y-%m-%d")
 last_alive = load_alive_date()
 
@@ -95,18 +107,12 @@ if today != last_alive:
     if send_message(alive_message):
         save_alive_date(today)
 
-    print("Coins:", len(coins))
-
-    peaks = load_peaks()
-
-    count = 0
+# -------- بررسی ارزها --------
 
 for coin in coins:
 
     try:
-        if coin["sb"] == "NVDAON_USDT":
-            print(json.dumps(coin, indent=2))
-          
+
         symbol = coin["sb"]
 
         if symbol.startswith("~~"):
@@ -120,7 +126,7 @@ for coin in coins:
                 "alerted": False
             }
 
-        # اگر سقف جدید ساخت
+        # سقف جدید
         if price > peaks[symbol]["peak"]:
             peaks[symbol]["peak"] = price
             peaks[symbol]["alerted"] = False
@@ -149,19 +155,9 @@ for coin in coins:
                 print(f"Alert sent: {symbol}")
 
     except Exception as e:
-        print(f"Coin Error ({coin.get('sb','UNKNOWN')}): {e}")
-               
-
-            
-
+        print(f"Coin Error ({coin.get('sb', 'UNKNOWN')}): {e}")
 
 save_peaks(peaks)
 
 print("Saved Peaks:", len(peaks))
-
 print("Finished")
-
-
-            
-
-    
