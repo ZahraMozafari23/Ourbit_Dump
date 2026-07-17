@@ -2684,7 +2684,7 @@
     "alerted": false
   },
   "RECALL_USDT": {
-    "peak": 0.03601,
+    "peak": 0.03646,
     "alerted": false
   },
   "WLD_USDT": {
@@ -3208,7 +3208,7 @@
     "alerted": false
   },
   "ARX_USDT": {
-    "peak": 0.176,
+    "peak": 0.1767,
     "alerted": false
   },
   "EURC_USDT": {
@@ -3262,5 +3262,9 @@
   "BRIAN_USDT": {
     "peak": 0.02249,
     "alerted": true
+  },
+  "JIMOTHY_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
