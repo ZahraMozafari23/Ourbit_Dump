@@ -95,19 +95,19 @@ if data:
             continue
         drop = ((price - peaks[symbol]["peak"]) / peaks[symbol]["peak"]) * 100
 
+if drop <= -50 and peaks[symbol]["alerted"] == False:
 
-        if drop <= -5 and peaks[symbol]["alerted"] == False:
-            
-            message = (
-                "🚨 هشدار دامپ\n\n"
-                f"🪙 {symbol}\n"
-                f"📉 ریزش: {drop:.2f}%\n\n"
-                f"📈 Peak: {peaks[symbol]['peak']}\n"
-                f"💰 قیمت فعلی: {price}"
-            )
+    message = (
+        "🚨 هشدار دامپ\n\n"
+        f"🪙 {symbol}\n"
+        f"📉 ریزش: {drop:.2f}%\n\n"
+        f"📈 Peak: {peaks[symbol]['peak']}\n"
+        f"💰 قیمت فعلی: {price}"
+    )
 
-            if send_message(message):
-                peaks[symbol]["alerted"] = True
+    if send_message(message):
+        peaks[symbol]["alerted"] = True
+        
                
 
             
