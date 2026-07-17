@@ -1133,7 +1133,7 @@
   },
   "MARIAN_USDT": {
     "peak": 0.002704,
-    "alerted": true
+    "alerted": false
   },
   "VIGI_USDT": {
     "peak": 0.002336,
@@ -1977,7 +1977,7 @@
   },
   "MM_USDT": {
     "peak": 1.6e-05,
-    "alerted": true
+    "alerted": false
   },
   "ZANO_USDT": {
     "peak": 9.856,
