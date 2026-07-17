@@ -95,7 +95,7 @@ if data:
             continue
         drop = ((price - peaks[symbol]["peak"]) / peaks[symbol]["peak"]) * 100
 
-if drop <= -5 and peaks[symbol]["alerted"] == False:
+if drop <= -2 and peaks[symbol]["alerted"] == False:
 
     message = (
         "🚨 هشدار دامپ\n\n"
