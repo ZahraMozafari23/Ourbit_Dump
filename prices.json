@@ -1724,7 +1724,7 @@
     "alerted": false
   },
   "HPP_USDT": {
-    "peak": 0.01743,
+    "peak": 0.01771,
     "alerted": false
   },
   "CELO_USDT": {
@@ -1868,7 +1868,7 @@
     "alerted": false
   },
   "HSK_USDT": {
-    "peak": 0.092,
+    "peak": 0.0921,
     "alerted": false
   },
   "JOECOIN_USDT": {
@@ -2408,8 +2408,8 @@
     "alerted": false
   },
   "DODO_USDT": {
-    "peak": 0.0243,
-    "alerted": true
+    "peak": 0.02547,
+    "alerted": false
   },
   "TRUMPSOL_USDT": {
     "peak": 1.58,
@@ -2456,7 +2456,7 @@
     "alerted": false
   },
   "BAND_USDT": {
-    "peak": 0.1732,
+    "peak": 0.1735,
     "alerted": false
   },
   "HYPE_USDT": {
@@ -2620,7 +2620,7 @@
     "alerted": true
   },
   "IKA_USDT": {
-    "peak": 0.002593,
+    "peak": 0.0026,
     "alerted": false
   },
   "XYO_USDT": {
@@ -2684,7 +2684,7 @@
     "alerted": false
   },
   "RECALL_USDT": {
-    "peak": 0.03597,
+    "peak": 0.03601,
     "alerted": false
   },
   "WLD_USDT": {
@@ -3128,7 +3128,7 @@
     "alerted": false
   },
   "COAI_USDT": {
-    "peak": 0.3182,
+    "peak": 0.3185,
     "alerted": false
   },
   "ALU_USDT": {
