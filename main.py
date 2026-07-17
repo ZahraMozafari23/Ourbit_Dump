@@ -73,7 +73,7 @@ if data:
 
     count = 0
 
-   for coin in coins:
+for coin in coins:
 
     try:
         symbol = coin["sb"]
