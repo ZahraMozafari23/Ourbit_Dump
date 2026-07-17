@@ -20,6 +20,7 @@ def send_message(text):
             )
 
             print("Telegram Status:", response.status_code)
+            print(response.text)
 
             if response.status_code != 200:
                 success = False
@@ -95,7 +96,7 @@ if data:
         drop = ((price - peaks[symbol]["peak"]) / peaks[symbol]["peak"]) * 100
 
 
-        if drop <= -50 and peaks[symbol]["alerted"] == False:
+        if drop <= -5 and peaks[symbol]["alerted"] == False:
             
             message = (
                 "🚨 هشدار دامپ\n\n"
