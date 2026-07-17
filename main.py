@@ -108,7 +108,7 @@ if today != last_alive:
         save_alive_date(today)
 
 # -------- بررسی ارزها --------
-print(coins)[0])
+print(coins[0])
 exit()
 for coin in coins:
 
