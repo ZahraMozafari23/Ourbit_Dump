@@ -212,7 +212,7 @@
     "alerted": false
   },
   "PLUME_USDT": {
-    "peak": 0.01089,
+    "peak": 0.0109,
     "alerted": false
   },
   "GRASS_USDT": {
@@ -772,11 +772,11 @@
     "alerted": false
   },
   "USOON_USDT": {
-    "peak": 123.65,
+    "peak": 124.97,
     "alerted": false
   },
   "VANRY_USDT": {
-    "peak": 0.005852,
+    "peak": 0.005868,
     "alerted": false
   },
   "FORM_USDT": {
@@ -796,7 +796,7 @@
     "alerted": false
   },
   "PEPON_USDT": {
-    "peak": 144.82,
+    "peak": 144.84,
     "alerted": false
   },
   "CTSI_USDT": {
@@ -888,7 +888,7 @@
     "alerted": false
   },
   "ZKP_USDT": {
-    "peak": 0.04635,
+    "peak": 0.04637,
     "alerted": false
   },
   "ACX_USDT": {
@@ -1052,7 +1052,7 @@
     "alerted": false
   },
   "CREPE_USDT": {
-    "peak": 1.068e-05,
+    "peak": 1.069e-05,
     "alerted": false
   },
   "IN_USDT": {
@@ -1976,7 +1976,7 @@
     "alerted": false
   },
   "DBR_USDT": {
-    "peak": 0.01661,
+    "peak": 0.01671,
     "alerted": false
   },
   "SKHYB_USDT": {
@@ -2028,7 +2028,7 @@
     "alerted": false
   },
   "LDO_USDT": {
-    "peak": 0.3779,
+    "peak": 0.3787,
     "alerted": false
   },
   "CROSS_USDT": {
@@ -2652,7 +2652,7 @@
     "alerted": false
   },
   "USDC_USDT": {
-    "peak": 1.00086,
+    "peak": 1.00089,
     "alerted": false
   },
   "GIGA_USDT": {
@@ -2944,7 +2944,7 @@
     "alerted": false
   },
   "QFI_USDT": {
-    "peak": 63.7,
+    "peak": 63.75,
     "alerted": false
   },
   "JCT_USDT": {
@@ -3008,7 +3008,7 @@
     "alerted": false
   },
   "POD_USDT": {
-    "peak": 0.4483,
+    "peak": 0.4484,
     "alerted": false
   },
   "EURQ_USDC": {
@@ -3120,7 +3120,7 @@
     "alerted": false
   },
   "TAG_USDT": {
-    "peak": 0.0009392,
+    "peak": 0.0009432,
     "alerted": false
   },
   "NVDAB_USDT": {
@@ -3152,7 +3152,7 @@
     "alerted": false
   },
   "AUTONOMI_USDT": {
-    "peak": 0.056607,
+    "peak": 0.05663,
     "alerted": false
   },
   "OP_USDT": {
@@ -3172,7 +3172,7 @@
     "alerted": false
   },
   "TAG_USD1": {
-    "peak": 0.0009402,
+    "peak": 0.0009425,
     "alerted": false
   },
   "ANYONE_USDT": {
