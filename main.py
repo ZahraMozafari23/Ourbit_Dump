@@ -106,8 +106,9 @@ if data:
                 f"💰 قیمت فعلی: {price}"
             )
 
-           if send_message(message):
-               peaks[symbol]["alerted"] = True
+            if send_message(message):
+                peaks[symbol]["alerted"] = True
+               
 
             
 
