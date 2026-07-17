@@ -73,8 +73,9 @@ if data:
 
     count = 0
 
-    for coin in coins:
+   for coin in coins:
 
+    try:
         symbol = coin["sb"]
 
         if symbol.startswith("~~"):
@@ -88,26 +89,36 @@ if data:
                 "alerted": False
             }
 
-        elif price > peaks[symbol]["peak"]:
+        # اگر سقف جدید ساخت
+        if price > peaks[symbol]["peak"]:
             peaks[symbol]["peak"] = price
             peaks[symbol]["alerted"] = False
-        if peaks[symbol]["peak"] <= 0:
+
+        peak = peaks[symbol]["peak"]
+
+        if peak <= 0:
             continue
-        drop = ((price - peaks[symbol]["peak"]) / peaks[symbol]["peak"]) * 100
-print(symbol, peaks[symbol]["peak"], price, f"{drop:.2f}%")
-if drop <= -1 and peaks[symbol]["alerted"] == False:
 
-    message = (
-        "🚨 هشدار دامپ\n\n"
-        f"🪙 {symbol}\n"
-        f"📉 ریزش: {drop:.2f}%\n\n"
-        f"📈 Peak: {peaks[symbol]['peak']}\n"
-        f"💰 قیمت فعلی: {price}"
-    )
+        drop = ((price - peak) / peak) * 100
 
-    if send_message(message):
-        peaks[symbol]["alerted"] = True
-        
+        print(f"{symbol} | Peak={peak} | Price={price} | Drop={drop:.2f}%")
+
+        if drop <= DROP_PERCENT and not peaks[symbol]["alerted"]:
+
+            message = (
+                "🚨 هشدار دامپ\n\n"
+                f"🪙 {symbol}\n"
+                f"📉 ریزش: {drop:.2f}%\n\n"
+                f"📈 Peak: {peak}\n"
+                f"💰 قیمت فعلی: {price}"
+            )
+
+            if send_message(message):
+                peaks[symbol]["alerted"] = True
+                print(f"Alert sent: {symbol}")
+
+    except Exception as e:
+        print(f"Coin Error ({coin.get('sb','UNKNOWN')}): {e}")
                
 
             
