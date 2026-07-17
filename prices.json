@@ -156,7 +156,7 @@
     "alerted": false
   },
   "ETHFI_USDT": {
-    "peak": 0.4379,
+    "peak": 0.438,
     "alerted": false
   },
   "AGI_USDT": {
@@ -404,7 +404,7 @@
     "alerted": false
   },
   "GOMINING_USDT": {
-    "peak": 0.2818,
+    "peak": 0.2819,
     "alerted": false
   },
   "KEKIUS_USDT": {
@@ -532,7 +532,7 @@
     "alerted": false
   },
   "AXS_USDT": {
-    "peak": 0.945,
+    "peak": 0.946,
     "alerted": false
   },
   "NIGHT_USDT": {
@@ -604,7 +604,7 @@
     "alerted": false
   },
   "BERA_USDT": {
-    "peak": 0.1908,
+    "peak": 0.1914,
     "alerted": false
   },
   "KOMA_USDT": {
@@ -616,7 +616,7 @@
     "alerted": false
   },
   "AUDIO_USDT": {
-    "peak": 0.01356,
+    "peak": 0.01358,
     "alerted": false
   },
   "MANA_USDT": {
@@ -796,7 +796,7 @@
     "alerted": false
   },
   "MEME_USDT": {
-    "peak": 0.0005395,
+    "peak": 0.0005396,
     "alerted": false
   },
   "CHILLGUY_USDT": {
@@ -944,7 +944,7 @@
     "alerted": false
   },
   "AEVO_USDT": {
-    "peak": 0.01889,
+    "peak": 0.01893,
     "alerted": false
   },
   "SOLV_USDT": {
@@ -956,11 +956,11 @@
     "alerted": false
   },
   "SENTIS_USDT": {
-    "peak": 0.18814,
+    "peak": 0.18834,
     "alerted": false
   },
   "SPX_USDT": {
-    "peak": 0.35857,
+    "peak": 0.35864,
     "alerted": false
   },
   "SOSO_USDT": {
@@ -1124,7 +1124,7 @@
     "alerted": false
   },
   "AKE_USDT": {
-    "peak": 0.0013722,
+    "peak": 0.0013746,
     "alerted": false
   },
   "GODS_USDT": {
@@ -1148,7 +1148,7 @@
     "alerted": false
   },
   "SNX_USDT": {
-    "peak": 0.2248,
+    "peak": 0.2253,
     "alerted": false
   },
   "BNT_USDT": {
@@ -1172,7 +1172,7 @@
     "alerted": false
   },
   "DEEP_USDT": {
-    "peak": 0.01744,
+    "peak": 0.017454,
     "alerted": false
   },
   "WAXP_USDT": {
@@ -1192,7 +1192,7 @@
     "alerted": false
   },
   "IO_USDT": {
-    "peak": 0.1515,
+    "peak": 0.1517,
     "alerted": false
   },
   "TSMB_USDT": {
@@ -1480,7 +1480,7 @@
     "alerted": false
   },
   "GMX_USDT": {
-    "peak": 6.14,
+    "peak": 6.15,
     "alerted": false
   },
   "NOT_USDT": {
@@ -1640,7 +1640,7 @@
     "alerted": false
   },
   "HOLO_USDT": {
-    "peak": 0.0677,
+    "peak": 0.0678,
     "alerted": false
   },
   "PIEVERSE_USDT": {
@@ -1732,7 +1732,7 @@
     "alerted": false
   },
   "HPP_USDT": {
-    "peak": 0.02028,
+    "peak": 0.02031,
     "alerted": false
   },
   "CELO_USDT": {
@@ -1868,7 +1868,7 @@
     "alerted": false
   },
   "LPT_USDT": {
-    "peak": 1.509,
+    "peak": 1.51,
     "alerted": false
   },
   "BNKR_USDT": {
@@ -2436,7 +2436,7 @@
     "alerted": false
   },
   "CAKE_USDT": {
-    "peak": 1.4077,
+    "peak": 1.4116,
     "alerted": false
   },
   "KERNEL_USDT": {
@@ -2460,7 +2460,7 @@
     "alerted": false
   },
   "GAMESTOP_USDT": {
-    "peak": 5.11e-06,
+    "peak": 5.12e-06,
     "alerted": false
   },
   "ZRX_USDT": {
@@ -2600,7 +2600,7 @@
     "alerted": false
   },
   "FLOW_USDT": {
-    "peak": 0.02599,
+    "peak": 0.026,
     "alerted": false
   },
   "BIGTIME_USDT": {
@@ -2696,7 +2696,7 @@
     "alerted": false
   },
   "CATI_USDT": {
-    "peak": 0.03889,
+    "peak": 0.0389,
     "alerted": false
   },
   "RECALL_USDT": {
@@ -2712,7 +2712,7 @@
     "alerted": false
   },
   "BULLA_USDT": {
-    "peak": 0.00882,
+    "peak": 0.008822,
     "alerted": false
   },
   "XAUT_USDT": {
@@ -2748,7 +2748,7 @@
     "alerted": false
   },
   "REPPO_USDT": {
-    "peak": 0.02298,
+    "peak": 0.023,
     "alerted": false
   },
   "BEAM_USDT": {
@@ -2868,7 +2868,7 @@
     "alerted": false
   },
   "NEST_USDT": {
-    "peak": 0.004786,
+    "peak": 0.004796,
     "alerted": false
   },
   "BANANAS31_USDT": {
@@ -2900,7 +2900,7 @@
     "alerted": false
   },
   "TOKEN_USDT": {
-    "peak": 0.00214,
+    "peak": 0.002145,
     "alerted": false
   },
   "GOAT_USDT": {
@@ -2940,7 +2940,7 @@
     "alerted": false
   },
   "AT_USDT": {
-    "peak": 0.1491,
+    "peak": 0.1494,
     "alerted": false
   },
   "RAY_USDT": {
@@ -3040,7 +3040,7 @@
     "alerted": false
   },
   "SAND_USDT": {
-    "peak": 0.0486,
+    "peak": 0.04864,
     "alerted": false
   },
   "AIN_USDT": {
@@ -3128,7 +3128,7 @@
     "alerted": false
   },
   "TRAC_USDT": {
-    "peak": 0.2774,
+    "peak": 0.2775,
     "alerted": false
   },
   "ANIME_USDT": {
@@ -3136,7 +3136,7 @@
     "alerted": false
   },
   "TAG_USDT": {
-    "peak": 0.0010157,
+    "peak": 0.0010159,
     "alerted": false
   },
   "NVDAB_USDT": {
@@ -3148,7 +3148,7 @@
     "alerted": false
   },
   "ALU_USDT": {
-    "peak": 0.003394,
+    "peak": 0.003398,
     "alerted": false
   },
   "QI_USDT": {
