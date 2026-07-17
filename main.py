@@ -85,6 +85,15 @@ if not data:
     exit()
 
 coins = data["data"]
+found = False
+
+for coin in coins:
+    if "LRC" in coin["sb"]:
+        print("FOUND:", coin)
+        found = True
+
+if not found:
+    print("LRC NOT FOUND IN API")
 print("Coins:", len(coins))
 
 peaks = load_peaks()
