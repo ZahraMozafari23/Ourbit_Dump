@@ -131,18 +131,13 @@ for coin in coins:
         if price > peaks[symbol]["peak"]:
             peaks[symbol]["peak"] = price
             peaks[symbol]["alerted"] = False
+drop = float(coin["r8"]) * 100
 
-        peak = peaks[symbol]["peak"]
+print(f"{symbol} | Price={price} | 24H={drop:.2f}%")
 
-        if peak <= 0:
-            continue
+if drop <= DROP_PERCENT and not peaks[symbol]["alerted"]:
 
-        drop = ((price - peak) / peak) * 100
-
-        print(f"{symbol} | Peak={peak} | Price={price} | Drop={drop:.2f}%")
-
-        if drop <= DROP_PERCENT and not peaks[symbol]["alerted"]:
-
+        
             message = (
                 "🚨 هشدار دامپ\n\n"
                 f"🪙 {symbol}\n"
