@@ -4,7 +4,7 @@ import json
 
 
 def send_message(text):
-    print("Sending:", text)
+    
 
     url = f"https://api.telegram.org/bot8926109992:AAGA2zq1h7wJA0tZ94EEVqmBlg31Elf5gcY/sendMessage"
 
@@ -97,7 +97,7 @@ if data:
 
 
         if drop <= -50 and peaks[symbol]["alerted"] == False:
-            print("Found:" ,symbol, drop)
+            
             message = (
                 "🚨 هشدار دامپ\n\n"
                 f"🪙 {symbol}\n"
