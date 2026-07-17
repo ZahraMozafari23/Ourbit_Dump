@@ -1,6 +1,19 @@
 from config import *
+from datetime import datetime
 import requests
 import json
+import os
+
+def load_alive_date():
+    try:
+        with open("alive.json", "r") as f:
+            return json.load(f).get("date", "")
+    except:
+        return ""
+
+def save_alive_date(date):
+    with open("alive.json", "w") as f:
+        json.dump({"date": date}, f)
 
 
 def send_message(text):
@@ -66,6 +79,21 @@ data = get_market()
 
 if data:
     coins = data["data"]
+today = datetime.utcnow().strftime("%Y-%m-%d")
+last_alive = load_alive_date()
+
+if today != last_alive:
+
+    alive_message = (
+        "✅ Bot Alive\n\n"
+        f"📅 {today}\n"
+        f"📊 Coins: {len(coins)}\n"
+        f"💾 Peaks: {len(peaks)}\n\n"
+        "🤖 ربات سالم و در حال اجراست."
+    )
+
+    if send_message(alive_message):
+        save_alive_date(today)
 
     print("Coins:", len(coins))
 
