@@ -36,7 +36,7 @@
     "alerted": false
   },
   "FLUID_USDT": {
-    "peak": 1.0463,
+    "peak": 1.0466,
     "alerted": false
   },
   "LFI_USDT": {
@@ -888,7 +888,7 @@
     "alerted": false
   },
   "ZKP_USDT": {
-    "peak": 0.04629,
+    "peak": 0.04635,
     "alerted": false
   },
   "ACX_USDT": {
@@ -1116,7 +1116,7 @@
     "alerted": false
   },
   "AKE_USDT": {
-    "peak": 0.0012325,
+    "peak": 0.0012382,
     "alerted": false
   },
   "GODS_USDT": {
@@ -1668,7 +1668,7 @@
     "alerted": false
   },
   "UB_USDT": {
-    "peak": 0.09052,
+    "peak": 0.0911,
     "alerted": false
   },
   "BIBI_USDT": {
@@ -1868,7 +1868,7 @@
     "alerted": false
   },
   "HSK_USDT": {
-    "peak": 0.0899,
+    "peak": 0.09,
     "alerted": false
   },
   "JOECOIN_USDT": {
@@ -3208,7 +3208,7 @@
     "alerted": false
   },
   "ARX_USDT": {
-    "peak": 0.1752,
+    "peak": 0.1755,
     "alerted": false
   },
   "EURC_USDT": {
