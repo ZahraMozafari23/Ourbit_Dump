@@ -4,28 +4,27 @@ import json
 
 
 def send_message(text):
-    
 
-    url = f"https://api.telegram.org/bot8926109992:AAGA2zq1h7wJA0tZ94EEVqmBlg31Elf5gcY/sendMessage"
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
+
+    success = True
 
     for chat_id in [CHAT_ID, CHAT_ID_2]:
         if chat_id:
-              response = requests.post(
-            url,
-            data={
-                "chat_id": chat_id,
-                "text": text
-            }
+            response = requests.post(
+                url,
+                data={
+                    "chat_id": chat_id,
+                    "text": text
+                }
+            )
 
-      
-        )
+            print("Telegram Status:", response.status_code)
 
-    
+            if response.status_code != 200:
+                success = False
 
-        print("Telegram Status:", response.status_code)
-
-    print("Telegram Status:", response.status_code)
-    print(response.text)
+    return success
 def get_market():
 
     try:
@@ -106,9 +105,10 @@ if data:
                 f"💰 قیمت فعلی: {price}"
             )
 
-            send_message(message)
+           if send_message(message):
+               peaks[symbol]["alerted"] = True
 
-            peaks[symbol]["alerted"] = True
+            
 
 
 save_peaks(peaks)
