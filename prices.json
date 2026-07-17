@@ -108,8 +108,8 @@
     "alerted": false
   },
   "ELSA_USDT": {
-    "peak": 0.05622,
-    "alerted": true
+    "peak": 0.05624,
+    "alerted": false
   },
   "TRADOOR_USDT": {
     "peak": 0.4227,
@@ -568,7 +568,7 @@
     "alerted": false
   },
   "BANANA_USDT": {
-    "peak": 3.4063,
+    "peak": 3.4095,
     "alerted": false
   },
   "MON_USDT": {
@@ -608,7 +608,7 @@
     "alerted": false
   },
   "AUDIO_USDT": {
-    "peak": 0.01348,
+    "peak": 0.01382,
     "alerted": false
   },
   "MANA_USDT": {
@@ -888,7 +888,7 @@
     "alerted": false
   },
   "ZKP_USDT": {
-    "peak": 0.04625,
+    "peak": 0.04629,
     "alerted": false
   },
   "ACX_USDT": {
@@ -1096,7 +1096,7 @@
     "alerted": false
   },
   "TOWNS_USDT": {
-    "peak": 0.002273,
+    "peak": 0.002287,
     "alerted": false
   },
   "4_USDT": {
@@ -1116,7 +1116,7 @@
     "alerted": false
   },
   "AKE_USDT": {
-    "peak": 0.0011889,
+    "peak": 0.0011954,
     "alerted": false
   },
   "GODS_USDT": {
@@ -1312,7 +1312,7 @@
     "alerted": false
   },
   "HUMA_USDT": {
-    "peak": 0.02242,
+    "peak": 0.02245,
     "alerted": false
   },
   "STRK_USDT": {
@@ -1652,7 +1652,7 @@
     "alerted": false
   },
   "B2_USDT": {
-    "peak": 0.52862,
+    "peak": 0.52863,
     "alerted": false
   },
   "CAP_USDT": {
@@ -1992,7 +1992,7 @@
     "alerted": false
   },
   "SUN_USDT": {
-    "peak": 0.01811,
+    "peak": 0.01812,
     "alerted": false
   },
   "DATA_USDT": {
@@ -3208,7 +3208,7 @@
     "alerted": false
   },
   "ARX_USDT": {
-    "peak": 0.1747,
+    "peak": 0.175,
     "alerted": false
   },
   "EURC_USDT": {
