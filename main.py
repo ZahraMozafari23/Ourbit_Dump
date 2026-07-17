@@ -76,6 +76,9 @@ if data:
 for coin in coins:
 
     try:
+        if coin["sb"] == "NVDAON_USDT":
+            print(json.dumps(coin, indent=2))
+          
         symbol = coin["sb"]
 
         if symbol.startswith("~~"):
