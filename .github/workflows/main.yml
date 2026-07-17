@@ -31,7 +31,7 @@ jobs:
 
       - name: Run bot
         run: |
-              
+              date
               python main.py
 
       - name: Save prices
