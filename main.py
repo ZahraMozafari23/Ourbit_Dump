@@ -108,8 +108,7 @@ if today != last_alive:
         save_alive_date(today)
 
 # -------- بررسی ارزها --------
-print(coins[0])
-exit()
+
 for coin in coins:
 
     try:
@@ -127,22 +126,22 @@ for coin in coins:
                 "alerted": False
             }
 
-        # سقف جدید
+        # اگر سقف جدید ثبت شد فقط هشدار ریست شود
         if price > peaks[symbol]["peak"]:
             peaks[symbol]["peak"] = price
             peaks[symbol]["alerted"] = False
-drop = float(coin["r8"]) * 100
 
-print(f"{symbol} | Price={price} | 24H={drop:.2f}%")
+        # درصد تغییر 24 ساعته (همان درصد قرمز اوربیت)
+        drop = float(coin["r8"]) * 100
 
-if drop <= DROP_PERCENT and not peaks[symbol]["alerted"]:
+        print(f"{symbol} | Price={price} | 24H={drop:.2f}%")
 
-        
+        if drop <= DROP_PERCENT and not peaks[symbol]["alerted"]:
+
             message = (
                 "🚨 هشدار دامپ\n\n"
                 f"🪙 {symbol}\n"
-                f"📉 ریزش: {drop:.2f}%\n\n"
-                f"📈 Peak: {peak}\n"
+                f"📉 ریزش 24 ساعته: {drop:.2f}%\n\n"
                 f"💰 قیمت فعلی: {price}"
             )
 
