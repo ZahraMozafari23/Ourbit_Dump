@@ -65,7 +65,7 @@
   },
   "INDEX_USDT": {
     "peak": 0.02805,
-    "alerted": true
+    "alerted": false
   },
   "PUMPCADE_USDT": {
     "peak": 0.0115,
@@ -1381,7 +1381,7 @@
   },
   "LRC_USDT": {
     "peak": 0.01883,
-    "alerted": true
+    "alerted": false
   },
   "STBL_USDT": {
     "peak": 0.02052,
@@ -1681,7 +1681,7 @@
   },
   "BIBI_USDT": {
     "peak": 0.000768,
-    "alerted": true
+    "alerted": false
   },
   "ASP_USDT": {
     "peak": 0.01419,
