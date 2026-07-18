@@ -1381,7 +1381,7 @@
   },
   "LRC_USDT": {
     "peak": 0.01883,
-    "alerted": false
+    "alerted": true
   },
   "STBL_USDT": {
     "peak": 0.02052,
