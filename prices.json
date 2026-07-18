@@ -2157,7 +2157,7 @@
   },
   "BRIAN_USDT": {
     "peak": 0.01096,
-    "alerted": false
+    "alerted": true
   },
   "BABYDOGE_USDT": {
     "peak": 3.033e-10,
