@@ -99,8 +99,9 @@ print("Coins:", len(coins))
 peaks = load_peaks()
 
 # -------- پیام سلامت روزانه --------
+from datetime import datetime, timedelta
 
-today = datetime.utcnow().strftime("%Y-%m-%d")
+today = (datetime.utcnow() + timedelta(hours=3, minutes=30)).strftime("%Y-%m-%d")
 last_alive = load_alive_date()
 
 if today != last_alive:
