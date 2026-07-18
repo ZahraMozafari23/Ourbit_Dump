@@ -65,7 +65,7 @@
   },
   "INDEX_USDT": {
     "peak": 0.02805,
-    "alerted": false
+    "alerted": true
   },
   "PUMPCADE_USDT": {
     "peak": 0.0115,
@@ -1381,7 +1381,7 @@
   },
   "LRC_USDT": {
     "peak": 0.01883,
-    "alerted": false
+    "alerted": true
   },
   "STBL_USDT": {
     "peak": 0.02052,
@@ -1681,7 +1681,7 @@
   },
   "BIBI_USDT": {
     "peak": 0.000768,
-    "alerted": false
+    "alerted": true
   },
   "ASP_USDT": {
     "peak": 0.01419,
@@ -2377,7 +2377,7 @@
   },
   "VEX_USDT": {
     "peak": 0.00711,
-    "alerted": false
+    "alerted": true
   },
   "LLYON_USDT": {
     "peak": 1188.26,
