@@ -1381,7 +1381,7 @@
   },
   "LRC_USDT": {
     "peak": 0.01883,
-    "alerted": true
+    "alerted": false
   },
   "STBL_USDT": {
     "peak": 0.02052,
@@ -2377,7 +2377,7 @@
   },
   "VEX_USDT": {
     "peak": 0.00711,
-    "alerted": true
+    "alerted": false
   },
   "LLYON_USDT": {
     "peak": 1188.26,
