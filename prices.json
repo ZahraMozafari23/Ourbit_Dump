@@ -3266,5 +3266,9 @@
   "BGB_USDT": {
     "peak": 1.6503,
     "alerted": false
+  },
+  "STONKBROKER_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
