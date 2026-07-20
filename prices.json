@@ -3274,5 +3274,9 @@
   "DAI_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "USDS_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
