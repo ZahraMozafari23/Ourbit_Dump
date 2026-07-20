@@ -3270,5 +3270,9 @@
   "STONKBROKER_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "DAI_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
