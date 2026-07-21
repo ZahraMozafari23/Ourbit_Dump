@@ -7,4 +7,4 @@ CHAT_ID_3 = os.getenv("CHAT_ID_3")
 
 API_URL = "https://www.ourbit.com/api/platform/spot/market/v2/tickers"
 
-DROP_PERCENT = -30
+DROP_PERCENT = -50
