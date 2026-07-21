@@ -2657,7 +2657,7 @@
   },
   "BANK_USDT": {
     "peak": 0.07265,
-    "alerted": false
+    "alerted": true
   },
   "XNY_USDT": {
     "peak": 0.005855,
