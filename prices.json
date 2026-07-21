@@ -3282,5 +3282,9 @@
   "YOLO_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "RH67_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
