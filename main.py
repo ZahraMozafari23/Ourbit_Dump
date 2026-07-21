@@ -80,8 +80,8 @@ print("Bot Started")
 
 data = get_market()
 
-if not :
-    print("No market ")
+if not data :
+    print("No market data ")
     exit()
 
 coins = data["data"]
