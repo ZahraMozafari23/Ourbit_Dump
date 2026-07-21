@@ -3278,5 +3278,9 @@
   "USDS_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "YOLO_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
