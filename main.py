@@ -23,7 +23,7 @@ def send_message(text):
 
     success = True
 
-    for chat_id in [CHAT_ID, CHAT_ID_2]:
+    for chat_id in [CHAT_ID, CHAT_ID_2, CHAT_ID_3]:
         if chat_id:
             response = requests.post(
                 url,
