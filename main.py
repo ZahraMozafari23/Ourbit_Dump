@@ -80,11 +80,20 @@ print("Bot Started")
 
 data = get_market()
 
-if not data:
-    print("No market data")
+if not :
+    print("No market ")
     exit()
 
 coins = data["data"]
+count_hidden = 0
+
+for coin in coins:
+    if coin["sb"].startswith("~~"):
+        count_hidden += 1
+
+print("Total from API:", len(coins))
+print("Hidden (~~):", count_hidden)
+print("After filter:", len(coins) - count_hidden)
 found = False
 
 for coin in coins:
