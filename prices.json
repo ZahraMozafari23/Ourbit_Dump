@@ -1005,7 +1005,7 @@
   },
   "PROM_USDT": {
     "peak": 1.295,
-    "alerted": false
+    "alerted": true
   },
   "ACT_USDT": {
     "peak": 0.00911,
@@ -2633,7 +2633,7 @@
   },
   "HOODRAT_USDT": {
     "peak": 0.003105,
-    "alerted": false
+    "alerted": true
   },
   "IKA_USDT": {
     "peak": 0.002598,
@@ -2657,7 +2657,7 @@
   },
   "BANK_USDT": {
     "peak": 0.07265,
-    "alerted": false
+    "alerted": true
   },
   "XNY_USDT": {
     "peak": 0.005855,
