@@ -2553,7 +2553,7 @@
   },
   "DEXE_USDT": {
     "peak": 36.122,
-    "alerted": true
+    "alerted": false
   },
   "AUCTION_USDT": {
     "peak": 3.32806,
@@ -2633,7 +2633,7 @@
   },
   "HOODRAT_USDT": {
     "peak": 0.003105,
-    "alerted": false
+    "alerted": true
   },
   "IKA_USDT": {
     "peak": 0.002598,
