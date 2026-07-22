@@ -2553,7 +2553,7 @@
   },
   "DEXE_USDT": {
     "peak": 36.122,
-    "alerted": true
+    "alerted": false
   },
   "AUCTION_USDT": {
     "peak": 3.32806,
