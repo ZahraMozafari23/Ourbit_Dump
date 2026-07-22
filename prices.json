@@ -2633,7 +2633,7 @@
   },
   "HOODRAT_USDT": {
     "peak": 0.003105,
-    "alerted": true
+    "alerted": false
   },
   "IKA_USDT": {
     "peak": 0.002598,
