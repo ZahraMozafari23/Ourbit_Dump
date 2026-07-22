@@ -3286,5 +3286,9 @@
   "RH67_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "ARTIFICIALINU_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
