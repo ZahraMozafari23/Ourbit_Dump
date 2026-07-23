@@ -3334,5 +3334,9 @@
   "GAMESTOPHOOD_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "PE_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
