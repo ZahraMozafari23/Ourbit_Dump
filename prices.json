@@ -3330,5 +3330,9 @@
   "QNTB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "GAMESTOPHOOD_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
