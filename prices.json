@@ -3342,5 +3342,9 @@
   "NORMIE_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "BRODIE_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
