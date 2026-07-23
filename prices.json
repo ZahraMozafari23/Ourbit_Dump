@@ -3314,5 +3314,9 @@
   "TQQQB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "KORUB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
