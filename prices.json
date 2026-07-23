@@ -3322,5 +3322,9 @@
   "SNXXB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "MVLLB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
