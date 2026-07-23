@@ -1509,7 +1509,7 @@
   },
   "WISHBONE_USDT": {
     "peak": 0.003386,
-    "alerted": true
+    "alerted": false
   },
   "CITY_USDT": {
     "peak": 0.3957,
