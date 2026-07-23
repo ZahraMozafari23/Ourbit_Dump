@@ -65,7 +65,7 @@
   },
   "INDEX_USDT": {
     "peak": 0.02805,
-    "alerted": true
+    "alerted": false
   },
   "PUMPCADE_USDT": {
     "peak": 0.0115,
