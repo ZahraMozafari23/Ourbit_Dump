@@ -2337,7 +2337,7 @@
   },
   "ARROW_USDT": {
     "peak": 1.6598,
-    "alerted": true
+    "alerted": false
   },
   "MET_USDT": {
     "peak": 0.136,
@@ -3285,7 +3285,7 @@
   },
   "RH67_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "ARTIFICIALINU_USDT": {
     "peak": 0.0,
