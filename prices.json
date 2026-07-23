@@ -3298,5 +3298,9 @@
   "CRWVB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "MUUB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
