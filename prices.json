@@ -3350,5 +3350,9 @@
   "KET_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "CATE_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
