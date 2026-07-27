@@ -325,7 +325,7 @@
   },
   "JIMOTHY_USDT": {
     "peak": 0.003767,
-    "alerted": true
+    "alerted": false
   },
   "GROVE_USDT": {
     "peak": 0.01301,
@@ -3333,11 +3333,11 @@
   },
   "GAMESTOPHOOD_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "PE_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "NORMIE_USDT": {
     "peak": 0.0,
