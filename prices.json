@@ -325,7 +325,7 @@
   },
   "JIMOTHY_USDT": {
     "peak": 0.003767,
-    "alerted": true
+    "alerted": false
   },
   "GROVE_USDT": {
     "peak": 0.01301,
