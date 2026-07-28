@@ -3358,5 +3358,9 @@
   "AEON_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "STRCON_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
