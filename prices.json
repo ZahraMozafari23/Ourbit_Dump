@@ -3362,5 +3362,9 @@
   "STRCON_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "PIPEDOG_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
