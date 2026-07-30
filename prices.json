@@ -3378,5 +3378,9 @@
   "BEB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "AMATB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
