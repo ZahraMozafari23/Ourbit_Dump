@@ -3394,5 +3394,9 @@
   "SMHB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "PYPLB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
