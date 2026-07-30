@@ -3398,5 +3398,9 @@
   "PYPLB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "GSB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
