@@ -3370,5 +3370,13 @@
   "AMZNB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "DELLB_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "BEB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
