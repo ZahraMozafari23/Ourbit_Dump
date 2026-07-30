@@ -3390,5 +3390,9 @@
   "SOXSB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "SMHB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
