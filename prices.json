@@ -3365,7 +3365,7 @@
   },
   "PIPEDOG_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "AMZNB_USDT": {
     "peak": 0.0,
