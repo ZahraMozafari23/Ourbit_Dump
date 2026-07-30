@@ -3386,5 +3386,9 @@
   "AAPLB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "SOXSB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
