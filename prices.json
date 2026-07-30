@@ -3402,5 +3402,9 @@
   "GSB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "FLNCB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
