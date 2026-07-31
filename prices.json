@@ -3414,5 +3414,9 @@
   "JACKET_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "MARSCOIN_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
