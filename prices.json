@@ -3418,5 +3418,9 @@
   "MARSCOIN_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "ASTEROIDBSC_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
