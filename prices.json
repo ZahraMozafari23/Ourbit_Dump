@@ -3422,5 +3422,9 @@
   "ASTEROIDBSC_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "CHONKETHA_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
