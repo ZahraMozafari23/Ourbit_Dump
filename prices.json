@@ -3434,5 +3434,9 @@
   "GPU_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "BIYOU_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
