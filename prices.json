@@ -3429,7 +3429,7 @@
   },
   "SESTRI_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "GPU_USDT": {
     "peak": 0.0,
