@@ -3337,7 +3337,7 @@
   },
   "PE_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "NORMIE_USDT": {
     "peak": 0.0,
@@ -3445,7 +3445,7 @@
   },
   "DOOM_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "QUID_USDT": {
     "peak": 0.0,
