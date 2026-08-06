@@ -3474,5 +3474,9 @@
   "BMNRB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "COHRB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
