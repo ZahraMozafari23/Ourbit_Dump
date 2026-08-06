@@ -3462,5 +3462,9 @@
   "ALABB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "ASMLB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
