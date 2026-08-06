@@ -3454,5 +3454,9 @@
   "LILUNI_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "CGFY_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
