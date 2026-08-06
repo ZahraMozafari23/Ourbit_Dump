@@ -3486,5 +3486,9 @@
   "IRENB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "NFLXB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
