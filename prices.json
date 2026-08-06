@@ -3466,5 +3466,9 @@
   "ASMLB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "ASTSB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
