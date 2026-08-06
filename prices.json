@@ -3490,5 +3490,9 @@
   "NFLXB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "USARB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
