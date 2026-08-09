@@ -3502,5 +3502,25 @@
   "FROGE_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "MANCER_USDT": {
+    "peak": 0.003497,
+    "alerted": false
+  },
+  "TOAD_USDT": {
+    "peak": 0.00857,
+    "alerted": false
+  },
+  "BOYZ_USDT": {
+    "peak": 0.001244,
+    "alerted": false
+  },
+  "THEBULL_USDT": {
+    "peak": 0.004366,
+    "alerted": false
+  },
+  "STONK_USDT": {
+    "peak": 0.006252,
+    "alerted": false
   }
 }
