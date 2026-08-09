@@ -3513,7 +3513,7 @@
   },
   "BOYZ_USDT": {
     "peak": 0.001244,
-    "alerted": false
+    "alerted": true
   },
   "THEBULL_USDT": {
     "peak": 0.004366,
