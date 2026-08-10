@@ -2229,7 +2229,7 @@
   },
   "UCN_USDT": {
     "peak": 164.449,
-    "alerted": true
+    "alerted": false
   },
   "SN64TAO_USDT": {
     "peak": 14.77,
@@ -2665,7 +2665,7 @@
   },
   "EPIC_USDT": {
     "peak": 0.443,
-    "alerted": true
+    "alerted": false
   },
   "USDC_USDT": {
     "peak": 1.00069,
@@ -3513,7 +3513,7 @@
   },
   "BOYZ_USDT": {
     "peak": 0.001244,
-    "alerted": true
+    "alerted": false
   },
   "THEBULL_USDT": {
     "peak": 0.004366,
