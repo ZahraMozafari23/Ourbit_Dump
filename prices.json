@@ -2665,7 +2665,7 @@
   },
   "EPIC_USDT": {
     "peak": 0.443,
-    "alerted": true
+    "alerted": false
   },
   "USDC_USDT": {
     "peak": 1.00069,
@@ -3521,6 +3521,10 @@
   },
   "STONK_USDT": {
     "peak": 0.006252,
+    "alerted": false
+  },
+  "DOS_USDT": {
+    "peak": 0.0,
     "alerted": false
   }
 }
