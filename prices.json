@@ -2665,7 +2665,7 @@
   },
   "EPIC_USDT": {
     "peak": 0.443,
-    "alerted": false
+    "alerted": true
   },
   "USDC_USDT": {
     "peak": 1.00069,
