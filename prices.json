@@ -2229,7 +2229,7 @@
   },
   "UCN_USDT": {
     "peak": 164.449,
-    "alerted": false
+    "alerted": true
   },
   "SN64TAO_USDT": {
     "peak": 14.77,
