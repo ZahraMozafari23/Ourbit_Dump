@@ -2665,7 +2665,7 @@
   },
   "EPIC_USDT": {
     "peak": 0.443,
-    "alerted": false
+    "alerted": true
   },
   "USDC_USDT": {
     "peak": 1.00069,
@@ -3524,6 +3524,10 @@
     "alerted": false
   },
   "DOS_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "SAFEVANO_USDT": {
     "peak": 0.0,
     "alerted": false
   }
