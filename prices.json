@@ -2457,7 +2457,7 @@
   },
   "BEAT_USDT": {
     "peak": 2.57061,
-    "alerted": false
+    "alerted": true
   },
   "GAMESTOP_USDT": {
     "peak": 5.12e-06,
@@ -3457,7 +3457,7 @@
   },
   "CGFY_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "ALABB_USDT": {
     "peak": 0.0,
