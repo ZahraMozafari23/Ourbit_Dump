@@ -2457,7 +2457,7 @@
   },
   "BEAT_USDT": {
     "peak": 2.57061,
-    "alerted": true
+    "alerted": false
   },
   "GAMESTOP_USDT": {
     "peak": 5.12e-06,
@@ -3537,6 +3537,14 @@
   },
   "UPROBINHOOD_USDT": {
     "peak": 0.4426,
+    "alerted": false
+  },
+  "MANLET_USDT": {
+    "peak": 0.006594,
+    "alerted": false
+  },
+  "MOTION_USDT": {
+    "peak": 0.009222,
     "alerted": false
   }
 }
