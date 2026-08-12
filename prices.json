@@ -3546,5 +3546,9 @@
   "MOTION_USDT": {
     "peak": 0.009222,
     "alerted": false
+  },
+  "PLUMBER_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
