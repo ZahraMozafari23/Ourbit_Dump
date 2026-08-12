@@ -3554,5 +3554,9 @@
   "YARD_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "CNS_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
