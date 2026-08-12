@@ -3509,7 +3509,7 @@
   },
   "TOAD_USDT": {
     "peak": 0.00857,
-    "alerted": false
+    "alerted": true
   },
   "BOYZ_USDT": {
     "peak": 0.001244,
