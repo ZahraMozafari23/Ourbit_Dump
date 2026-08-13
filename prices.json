@@ -3562,5 +3562,9 @@
   "GMEB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "UTILITY_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
