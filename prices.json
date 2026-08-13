@@ -1469,7 +1469,7 @@
   },
   "BDAG_USDT": {
     "peak": 5.99e-05,
-    "alerted": true
+    "alerted": false
   },
   "SUNDOG_USDT": {
     "peak": 0.004121,
