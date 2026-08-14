@@ -1469,7 +1469,7 @@
   },
   "BDAG_USDT": {
     "peak": 5.99e-05,
-    "alerted": true
+    "alerted": false
   },
   "SUNDOG_USDT": {
     "peak": 0.004121,
@@ -3337,7 +3337,7 @@
   },
   "PE_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "NORMIE_USDT": {
     "peak": 0.0,
@@ -3457,7 +3457,7 @@
   },
   "CGFY_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "ALABB_USDT": {
     "peak": 0.0,
