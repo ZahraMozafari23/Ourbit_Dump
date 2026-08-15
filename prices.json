@@ -441,7 +441,7 @@
   },
   "APR_USDT": {
     "peak": 0.2158,
-    "alerted": true
+    "alerted": false
   },
   "SHRD_USDT": {
     "peak": 0.04239,
@@ -2693,7 +2693,7 @@
   },
   "OVL_USDT": {
     "peak": 0.00716,
-    "alerted": true
+    "alerted": false
   },
   "CATI_USDT": {
     "peak": 0.0389,
@@ -3337,7 +3337,7 @@
   },
   "PE_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "NORMIE_USDT": {
     "peak": 0.0,
