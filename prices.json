@@ -441,7 +441,7 @@
   },
   "APR_USDT": {
     "peak": 0.2158,
-    "alerted": true
+    "alerted": false
   },
   "SHRD_USDT": {
     "peak": 0.04239,
