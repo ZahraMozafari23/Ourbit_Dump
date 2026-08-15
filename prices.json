@@ -3574,5 +3574,9 @@
   "KII_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "NIULAI_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
