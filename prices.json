@@ -2897,7 +2897,7 @@
   },
   "CYS_USDT": {
     "peak": 0.3075,
-    "alerted": false
+    "alerted": true
   },
   "TOKEN_USDT": {
     "peak": 0.002146,
