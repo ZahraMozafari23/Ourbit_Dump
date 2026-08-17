@@ -3565,7 +3565,7 @@
   },
   "UTILITY_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "MOMOTA_USDT": {
     "peak": 0.0,
