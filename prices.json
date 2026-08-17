@@ -3582,5 +3582,13 @@
   "MARSCOIN4_USDT": {
     "peak": 0.005845,
     "alerted": false
+  },
+  "LAYOOO_USDT": {
+    "peak": 0.003987,
+    "alerted": false
+  },
+  "BASECAT_USDT": {
+    "peak": 0.01302,
+    "alerted": false
   }
 }
