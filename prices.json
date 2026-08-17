@@ -3590,5 +3590,9 @@
   "BASECAT_USDT": {
     "peak": 0.01302,
     "alerted": false
+  },
+  "BILLYCOIN_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
