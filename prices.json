@@ -3585,7 +3585,7 @@
   },
   "LAYOOO_USDT": {
     "peak": 0.003987,
-    "alerted": true
+    "alerted": false
   },
   "BASECAT_USDT": {
     "peak": 0.01302,
