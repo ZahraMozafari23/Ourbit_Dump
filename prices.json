@@ -3593,7 +3593,7 @@
   },
   "BILLYCOIN_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "EYE_USDT": {
     "peak": 0.003924,
