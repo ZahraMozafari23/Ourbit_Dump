@@ -3581,7 +3581,7 @@
   },
   "MARSCOIN4_USDT": {
     "peak": 0.005845,
-    "alerted": false
+    "alerted": true
   },
   "LAYOOO_USDT": {
     "peak": 0.003987,
@@ -3597,6 +3597,6 @@
   },
   "EYE_USDT": {
     "peak": 0.003924,
-    "alerted": false
+    "alerted": true
   }
 }
