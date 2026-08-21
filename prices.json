@@ -1201,7 +1201,7 @@
   },
   "AVAAI_USDT": {
     "peak": 0.007419,
-    "alerted": true
+    "alerted": false
   },
   "C98_USDT": {
     "peak": 0.01324,
