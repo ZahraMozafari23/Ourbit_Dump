@@ -2961,7 +2961,7 @@
   },
   "QFI_USDT": {
     "peak": 63.84,
-    "alerted": false
+    "alerted": true
   },
   "JCT_USDT": {
     "peak": 0.003957,
