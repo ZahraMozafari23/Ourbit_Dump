@@ -3614,5 +3614,9 @@
   "QUOTRONS_USDT": {
     "peak": 1851.21,
     "alerted": false
+  },
+  "DELTA_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
