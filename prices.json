@@ -3618,5 +3618,9 @@
   "DELTA_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "EGG_USDT": {
+    "peak": 0.004946,
+    "alerted": false
   }
 }
