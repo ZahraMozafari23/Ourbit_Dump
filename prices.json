@@ -3622,5 +3622,13 @@
   "EGG_USDT": {
     "peak": 0.004946,
     "alerted": false
+  },
+  "BNBCAT_USDT": {
+    "peak": 0.005637,
+    "alerted": false
+  },
+  "DOPAMEME_USDT": {
+    "peak": 0.00926,
+    "alerted": false
   }
 }
