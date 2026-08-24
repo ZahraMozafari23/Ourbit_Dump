@@ -3261,7 +3261,7 @@
   },
   "VELVET_USDT": {
     "peak": 0.56696,
-    "alerted": false
+    "alerted": true
   },
   "BGB_USDT": {
     "peak": 1.6503,
