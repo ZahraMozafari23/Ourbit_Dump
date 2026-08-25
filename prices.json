@@ -1137,7 +1137,7 @@
   },
   "VIGI_USDT": {
     "peak": 0.002336,
-    "alerted": false
+    "alerted": true
   },
   "XLM_USDT": {
     "peak": 0.1879,
