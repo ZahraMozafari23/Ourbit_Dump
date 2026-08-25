@@ -3642,5 +3642,9 @@
   "TMX_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "DTF_USDT": {
+    "peak": 0.0045,
+    "alerted": false
   }
 }
