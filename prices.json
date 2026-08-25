@@ -3634,5 +3634,9 @@
   "CC_USDT": {
     "peak": 0.01001,
     "alerted": false
+  },
+  "GOOD_USDT": {
+    "peak": 0.006113,
+    "alerted": false
   }
 }
