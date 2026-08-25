@@ -2693,7 +2693,7 @@
   },
   "OVL_USDT": {
     "peak": 0.00716,
-    "alerted": true
+    "alerted": false
   },
   "CATI_USDT": {
     "peak": 0.0389,
