@@ -653,7 +653,7 @@
   },
   "NIGGABUTT_USDT": {
     "peak": 0.0012539,
-    "alerted": false
+    "alerted": true
   },
   "CHEEMS_USDT": {
     "peak": 4.681e-07,
@@ -1657,7 +1657,7 @@
   },
   "JYAI_USDT": {
     "peak": 2.508e-05,
-    "alerted": false
+    "alerted": true
   },
   "B2_USDT": {
     "peak": 0.52758,
