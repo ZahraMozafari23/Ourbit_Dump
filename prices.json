@@ -3670,5 +3670,9 @@
   "BLUECHIP_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "SUE_USDT": {
+    "peak": 0.003161,
+    "alerted": false
   }
 }
