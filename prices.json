@@ -3674,5 +3674,9 @@
   "SUE_USDT": {
     "peak": 0.003161,
     "alerted": false
+  },
+  "PRINTER_USDT": {
+    "peak": 0.02711,
+    "alerted": false
   }
 }
