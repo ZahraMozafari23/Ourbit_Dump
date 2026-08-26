@@ -3646,5 +3646,13 @@
   "DTF_USDT": {
     "peak": 0.0045,
     "alerted": false
+  },
+  "MARTIANS_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "PISTACIO_USDT": {
+    "peak": 0.010141,
+    "alerted": false
   }
 }
