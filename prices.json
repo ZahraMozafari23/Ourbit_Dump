@@ -3654,5 +3654,13 @@
   "PISTACIO_USDT": {
     "peak": 0.010141,
     "alerted": false
+  },
+  "HOOKR_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "MEMESTOCK_USDT": {
+    "peak": 0.004379,
+    "alerted": false
   }
 }
