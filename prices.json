@@ -3678,5 +3678,13 @@
   "PRINTER_USDT": {
     "peak": 0.02711,
     "alerted": false
+  },
+  "FONE_USDT": {
+    "peak": 0.00598,
+    "alerted": false
+  },
+  "BISCOTTI_USDT": {
+    "peak": 0.005571,
+    "alerted": false
   }
 }
