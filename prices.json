@@ -3686,5 +3686,9 @@
   "BISCOTTI_USDT": {
     "peak": 0.005571,
     "alerted": false
+  },
+  "BOW_USDT": {
+    "peak": 0.004245,
+    "alerted": false
   }
 }
