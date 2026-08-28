@@ -1657,7 +1657,7 @@
   },
   "JYAI_USDT": {
     "peak": 2.508e-05,
-    "alerted": false
+    "alerted": true
   },
   "B2_USDT": {
     "peak": 0.52758,
@@ -1829,7 +1829,7 @@
   },
   "CYDX_USDT": {
     "peak": 0.1823588,
-    "alerted": false
+    "alerted": true
   },
   "M_USDT": {
     "peak": 1.14395,
@@ -3625,7 +3625,7 @@
   },
   "BNBCAT_USDT": {
     "peak": 0.005637,
-    "alerted": false
+    "alerted": true
   },
   "DOPAMEME_USDT": {
     "peak": 0.00926,
@@ -3673,7 +3673,7 @@
   },
   "SUE_USDT": {
     "peak": 0.003161,
-    "alerted": false
+    "alerted": true
   },
   "PRINTER_USDT": {
     "peak": 0.02711,
@@ -3693,6 +3693,14 @@
   },
   "WODENUYOUJINTIAN_USDT": {
     "peak": 0.004392,
+    "alerted": false
+  },
+  "SPCXON_USDT": {
+    "peak": 140.17,
+    "alerted": false
+  },
+  "AGIFROG_USDT": {
+    "peak": 0.004743,
     "alerted": false
   }
 }
