@@ -3690,5 +3690,9 @@
   "BOW_USDT": {
     "peak": 0.004245,
     "alerted": false
+  },
+  "WODENUYOUJINTIAN_USDT": {
+    "peak": 0.004392,
+    "alerted": false
   }
 }
