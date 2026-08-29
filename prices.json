@@ -3633,7 +3633,7 @@
   },
   "CC_USDT": {
     "peak": 0.01001,
-    "alerted": true
+    "alerted": false
   },
   "GOOD_USDT": {
     "peak": 0.006113,
@@ -3653,7 +3653,7 @@
   },
   "PISTACIO_USDT": {
     "peak": 0.010141,
-    "alerted": true
+    "alerted": false
   },
   "HOOKR_USDT": {
     "peak": 0.0,
@@ -3693,7 +3693,7 @@
   },
   "WODENUYOUJINTIAN_USDT": {
     "peak": 0.004392,
-    "alerted": true
+    "alerted": false
   },
   "SPCXON_USDT": {
     "peak": 140.17,
@@ -3701,7 +3701,7 @@
   },
   "AGIFROG_USDT": {
     "peak": 0.004743,
-    "alerted": true
+    "alerted": false
   },
   "MICRODUCK_USDT": {
     "peak": 0.01726,
