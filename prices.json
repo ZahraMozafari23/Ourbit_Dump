@@ -3693,7 +3693,7 @@
   },
   "WODENUYOUJINTIAN_USDT": {
     "peak": 0.004392,
-    "alerted": false
+    "alerted": true
   },
   "SPCXON_USDT": {
     "peak": 140.17,
@@ -3701,7 +3701,7 @@
   },
   "AGIFROG_USDT": {
     "peak": 0.004743,
-    "alerted": false
+    "alerted": true
   },
   "MICRODUCK_USDT": {
     "peak": 0.01726,
@@ -3709,6 +3709,10 @@
   },
   "CHUMP_USDT": {
     "peak": 0.0,
+    "alerted": false
+  },
+  "WEBCADE_USDT": {
+    "peak": 0.005207,
     "alerted": false
   }
 }
