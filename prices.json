@@ -3730,5 +3730,9 @@
   "HUDIERENSHENG_USDT": {
     "peak": 0.005324,
     "alerted": false
+  },
+  "SAYLORMOON_USDT": {
+    "peak": 0.004992,
+    "alerted": false
   }
 }
