@@ -3714,5 +3714,17 @@
   "WEBCADE_USDT": {
     "peak": 0.005207,
     "alerted": false
+  },
+  "COPPERINU_USDT": {
+    "peak": 0.01448,
+    "alerted": false
+  },
+  "STATICS_USDT": {
+    "peak": 0.008985,
+    "alerted": false
+  },
+  "PROLOGUE_USDT": {
+    "peak": 0.00885,
+    "alerted": false
   }
 }
