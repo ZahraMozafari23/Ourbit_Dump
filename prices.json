@@ -3754,5 +3754,9 @@
   "TWO_USDT": {
     "peak": 0.005897,
     "alerted": false
+  },
+  "SUNXIAOSHENG_USDT": {
+    "peak": 0.002788,
+    "alerted": false
   }
 }
