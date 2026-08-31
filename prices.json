@@ -3734,5 +3734,13 @@
   "SAYLORMOON_USDT": {
     "peak": 0.004992,
     "alerted": false
+  },
+  "FUGUI_USDT": {
+    "peak": 0.002782,
+    "alerted": false
+  },
+  "SHRUB_USDT": {
+    "peak": 0.004639,
+    "alerted": false
   }
 }
