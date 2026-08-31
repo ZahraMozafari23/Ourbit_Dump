@@ -3742,5 +3742,17 @@
   "SHRUB_USDT": {
     "peak": 0.004639,
     "alerted": false
+  },
+  "BONER_USDT": {
+    "peak": 0.01538,
+    "alerted": false
+  },
+  "TTWO_USDT": {
+    "peak": 249.67,
+    "alerted": false
+  },
+  "TWO_USDT": {
+    "peak": 0.005897,
+    "alerted": false
   }
 }
