@@ -3693,7 +3693,7 @@
   },
   "WODENUYOUJINTIAN_USDT": {
     "peak": 0.004392,
-    "alerted": false
+    "alerted": true
   },
   "SPCXON_USDT": {
     "peak": 140.17,
@@ -3773,6 +3773,18 @@
   },
   "ROBINCAT_USDT": {
     "peak": 0.002899,
+    "alerted": false
+  },
+  "VLR_USDT": {
+    "peak": 0.003755,
+    "alerted": false
+  },
+  "OTC_USDT": {
+    "peak": 0.006266,
+    "alerted": false
+  },
+  "SPACEHOOD_USDT": {
+    "peak": 0.0167,
     "alerted": false
   }
 }
