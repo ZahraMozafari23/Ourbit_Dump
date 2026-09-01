@@ -3609,7 +3609,7 @@
   },
   "CYBERLEEK_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "QUOTRONS_USDT": {
     "peak": 1851.21,
