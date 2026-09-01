@@ -3758,5 +3758,21 @@
   "SUNXIAOSHENG_USDT": {
     "peak": 0.002788,
     "alerted": false
+  },
+  "MOO_USDT": {
+    "peak": 0.01322,
+    "alerted": false
+  },
+  "ODYS_USDT": {
+    "peak": 0.00436,
+    "alerted": false
+  },
+  "RABBIT_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "ROBINCAT_USDT": {
+    "peak": 0.002899,
+    "alerted": false
   }
 }
