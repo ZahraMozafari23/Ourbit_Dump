@@ -3777,7 +3777,7 @@
   },
   "VLR_USDT": {
     "peak": 0.003755,
-    "alerted": false
+    "alerted": true
   },
   "OTC_USDT": {
     "peak": 0.006266,
