@@ -1589,7 +1589,7 @@
   },
   "V4AI_USDT": {
     "peak": 0.412382,
-    "alerted": true
+    "alerted": false
   },
   "MORPHO_USDT": {
     "peak": 2.001,
@@ -3757,7 +3757,7 @@
   },
   "SUNXIAOSHENG_USDT": {
     "peak": 0.002788,
-    "alerted": true
+    "alerted": false
   },
   "MOO_USDT": {
     "peak": 0.01322,
@@ -3765,7 +3765,7 @@
   },
   "ODYS_USDT": {
     "peak": 0.00436,
-    "alerted": true
+    "alerted": false
   },
   "RABBIT_USDT": {
     "peak": 0.0,
@@ -3777,7 +3777,7 @@
   },
   "VLR_USDT": {
     "peak": 0.003755,
-    "alerted": true
+    "alerted": false
   },
   "OTC_USDT": {
     "peak": 0.006266,
@@ -3805,6 +3805,10 @@
   },
   "CP_USDT": {
     "peak": 0.0,
+    "alerted": false
+  },
+  "JINQIAN_USDT": {
+    "peak": 0.00569,
     "alerted": false
   }
 }
