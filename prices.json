@@ -3757,7 +3757,7 @@
   },
   "SUNXIAOSHENG_USDT": {
     "peak": 0.002788,
-    "alerted": false
+    "alerted": true
   },
   "MOO_USDT": {
     "peak": 0.01322,
@@ -3797,6 +3797,14 @@
   },
   "ORBIO_USDT": {
     "peak": 0.010768,
+    "alerted": false
+  },
+  "OPTIMUS_USDT": {
+    "peak": 0.00755,
+    "alerted": false
+  },
+  "CP_USDT": {
+    "peak": 0.0,
     "alerted": false
   }
 }
