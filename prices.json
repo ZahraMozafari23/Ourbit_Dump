@@ -1589,7 +1589,7 @@
   },
   "V4AI_USDT": {
     "peak": 0.412382,
-    "alerted": false
+    "alerted": true
   },
   "MORPHO_USDT": {
     "peak": 2.001,
@@ -3765,7 +3765,7 @@
   },
   "ODYS_USDT": {
     "peak": 0.00436,
-    "alerted": false
+    "alerted": true
   },
   "RABBIT_USDT": {
     "peak": 0.0,
