@@ -3769,7 +3769,7 @@
   },
   "RABBIT_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "ROBINCAT_USDT": {
     "peak": 0.002899,
@@ -3809,7 +3809,7 @@
   },
   "JINQIAN_USDT": {
     "peak": 0.00569,
-    "alerted": true
+    "alerted": false
   },
   "CRUDECAT_USDT": {
     "peak": 0.0,
