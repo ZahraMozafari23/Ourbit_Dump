@@ -3810,5 +3810,13 @@
   "JINQIAN_USDT": {
     "peak": 0.00569,
     "alerted": false
+  },
+  "CRUDECAT_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "NUDES_USDT": {
+    "peak": 0.013,
+    "alerted": false
   }
 }
