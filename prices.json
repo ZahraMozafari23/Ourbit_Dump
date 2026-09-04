@@ -1829,7 +1829,7 @@
   },
   "CYDX_USDT": {
     "peak": 0.1823588,
-    "alerted": true
+    "alerted": false
   },
   "M_USDT": {
     "peak": 1.14395,
@@ -2797,7 +2797,7 @@
   },
   "SN3_USDT": {
     "peak": 0.0004219,
-    "alerted": true
+    "alerted": false
   },
   "RETARDIO_USDT": {
     "peak": 0.001359,
@@ -3809,7 +3809,7 @@
   },
   "JINQIAN_USDT": {
     "peak": 0.00569,
-    "alerted": true
+    "alerted": false
   },
   "CRUDECAT_USDT": {
     "peak": 0.0,
