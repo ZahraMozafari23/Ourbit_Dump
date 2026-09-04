@@ -3809,7 +3809,7 @@
   },
   "JINQIAN_USDT": {
     "peak": 0.00569,
-    "alerted": false
+    "alerted": true
   },
   "CRUDECAT_USDT": {
     "peak": 0.0,
