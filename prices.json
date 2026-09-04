@@ -3809,7 +3809,7 @@
   },
   "JINQIAN_USDT": {
     "peak": 0.00569,
-    "alerted": false
+    "alerted": true
   },
   "CRUDECAT_USDT": {
     "peak": 0.0,
@@ -3841,6 +3841,10 @@
   },
   "MEMEROBINHOOD_USDT": {
     "peak": 0.11193,
+    "alerted": false
+  },
+  "PAIR_USDT": {
+    "peak": 0.00904,
     "alerted": false
   }
 }
