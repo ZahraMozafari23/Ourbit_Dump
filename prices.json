@@ -2797,7 +2797,7 @@
   },
   "SN3_USDT": {
     "peak": 0.0004219,
-    "alerted": false
+    "alerted": true
   },
   "RETARDIO_USDT": {
     "peak": 0.001359,
@@ -3733,7 +3733,7 @@
   },
   "SAYLORMOON_USDT": {
     "peak": 0.004992,
-    "alerted": true
+    "alerted": false
   },
   "FUGUI_USDT": {
     "peak": 0.002782,
@@ -3769,7 +3769,7 @@
   },
   "RABBIT_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "ROBINCAT_USDT": {
     "peak": 0.002899,
@@ -3809,7 +3809,7 @@
   },
   "JINQIAN_USDT": {
     "peak": 0.00569,
-    "alerted": true
+    "alerted": false
   },
   "CRUDECAT_USDT": {
     "peak": 0.0,
@@ -3837,6 +3837,10 @@
   },
   "FATCOIN_USDT": {
     "peak": 0.00726,
+    "alerted": false
+  },
+  "MEMEROBINHOOD_USDT": {
+    "peak": 0.11193,
     "alerted": false
   }
 }
