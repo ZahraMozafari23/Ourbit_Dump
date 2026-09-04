@@ -1829,7 +1829,7 @@
   },
   "CYDX_USDT": {
     "peak": 0.1823588,
-    "alerted": false
+    "alerted": true
   },
   "M_USDT": {
     "peak": 1.14395,
@@ -3733,7 +3733,7 @@
   },
   "SAYLORMOON_USDT": {
     "peak": 0.004992,
-    "alerted": false
+    "alerted": true
   },
   "FUGUI_USDT": {
     "peak": 0.002782,
@@ -3825,6 +3825,18 @@
   },
   "PARE_USDT": {
     "peak": 0.00378,
+    "alerted": false
+  },
+  "GRASSROBINHOOD_USDT": {
+    "peak": 0.004133,
+    "alerted": false
+  },
+  "SHROOM_USDT": {
+    "peak": 0.007713,
+    "alerted": false
+  },
+  "FATCOIN_USDT": {
+    "peak": 0.00726,
     "alerted": false
   }
 }
