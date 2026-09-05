@@ -3846,5 +3846,17 @@
   "PAIR_USDT": {
     "peak": 0.00904,
     "alerted": false
+  },
+  "PAR_USDT": {
+    "peak": 0.008098,
+    "alerted": false
+  },
+  "OTER_USDT": {
+    "peak": 0.01136,
+    "alerted": false
+  },
+  "STONKS_USDT": {
+    "peak": 0.008318,
+    "alerted": false
   }
 }
