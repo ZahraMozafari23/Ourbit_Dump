@@ -3849,7 +3849,7 @@
   },
   "PAR_USDT": {
     "peak": 0.008098,
-    "alerted": false
+    "alerted": true
   },
   "OTER_USDT": {
     "peak": 0.01136,
@@ -3857,6 +3857,14 @@
   },
   "STONKS_USDT": {
     "peak": 0.008318,
+    "alerted": false
+  },
+  "PEZ_USDT": {
+    "peak": 0.002795,
+    "alerted": false
+  },
+  "UNIPCS_USDT": {
+    "peak": 0.002135,
     "alerted": false
   }
 }
