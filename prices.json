@@ -3849,7 +3849,7 @@
   },
   "PAR_USDT": {
     "peak": 0.008098,
-    "alerted": true
+    "alerted": false
   },
   "OTER_USDT": {
     "peak": 0.01136,
@@ -3865,6 +3865,10 @@
   },
   "UNIPCS_USDT": {
     "peak": 0.002135,
+    "alerted": false
+  },
+  "ZCAT_USDT": {
+    "peak": 0.08912,
     "alerted": false
   }
 }
