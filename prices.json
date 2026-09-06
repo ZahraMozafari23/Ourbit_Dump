@@ -3801,7 +3801,7 @@
   },
   "OPTIMUS_USDT": {
     "peak": 0.00755,
-    "alerted": false
+    "alerted": true
   },
   "CP_USDT": {
     "peak": 0.0,
@@ -3869,6 +3869,10 @@
   },
   "ZCAT_USDT": {
     "peak": 0.08912,
+    "alerted": false
+  },
+  "AST_USDT": {
+    "peak": 0.010076,
     "alerted": false
   }
 }
