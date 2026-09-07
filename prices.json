@@ -3845,7 +3845,7 @@
   },
   "PAIR_USDT": {
     "peak": 0.00904,
-    "alerted": false
+    "alerted": true
   },
   "PAR_USDT": {
     "peak": 0.008098,
