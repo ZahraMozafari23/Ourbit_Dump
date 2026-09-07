@@ -3821,7 +3821,7 @@
   },
   "VISTA_USDT": {
     "peak": 0.002182,
-    "alerted": true
+    "alerted": false
   },
   "PARE_USDT": {
     "peak": 0.00378,
@@ -3845,11 +3845,11 @@
   },
   "PAIR_USDT": {
     "peak": 0.00904,
-    "alerted": true
+    "alerted": false
   },
   "PAR_USDT": {
     "peak": 0.008098,
-    "alerted": true
+    "alerted": false
   },
   "OTER_USDT": {
     "peak": 0.01136,
@@ -3865,7 +3865,7 @@
   },
   "UNIPCS_USDT": {
     "peak": 0.002135,
-    "alerted": true
+    "alerted": false
   },
   "ZCAT_USDT": {
     "peak": 0.08912,
@@ -3873,7 +3873,7 @@
   },
   "AST_USDT": {
     "peak": 0.010076,
-    "alerted": true
+    "alerted": false
   },
   "BEN_USDT": {
     "peak": 0.00565,
