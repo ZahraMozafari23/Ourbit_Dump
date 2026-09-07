@@ -3882,5 +3882,9 @@
   "BREW_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "AGISOL_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
