@@ -3886,5 +3886,9 @@
   "AGISOL_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "VITA_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
