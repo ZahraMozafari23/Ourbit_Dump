@@ -3878,5 +3878,9 @@
   "BEN_USDT": {
     "peak": 0.00565,
     "alerted": false
+  },
+  "BREW_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
