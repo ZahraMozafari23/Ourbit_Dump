@@ -3894,5 +3894,9 @@
   "CNPY_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "SOCK_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
