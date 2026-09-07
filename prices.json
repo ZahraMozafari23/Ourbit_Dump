@@ -3865,7 +3865,7 @@
   },
   "UNIPCS_USDT": {
     "peak": 0.002135,
-    "alerted": true
+    "alerted": false
   },
   "ZCAT_USDT": {
     "peak": 0.08912,
