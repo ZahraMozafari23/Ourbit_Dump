@@ -3821,7 +3821,7 @@
   },
   "VISTA_USDT": {
     "peak": 0.002182,
-    "alerted": false
+    "alerted": true
   },
   "PARE_USDT": {
     "peak": 0.00378,
@@ -3861,7 +3861,7 @@
   },
   "PEZ_USDT": {
     "peak": 0.002795,
-    "alerted": true
+    "alerted": false
   },
   "UNIPCS_USDT": {
     "peak": 0.002135,
