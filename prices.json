@@ -3621,7 +3621,7 @@
   },
   "EGG_USDT": {
     "peak": 0.004946,
-    "alerted": false
+    "alerted": true
   },
   "BNBCAT_USDT": {
     "peak": 0.005637,
