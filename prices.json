@@ -3857,7 +3857,7 @@
   },
   "STONKS_USDT": {
     "peak": 0.008318,
-    "alerted": false
+    "alerted": true
   },
   "PEZ_USDT": {
     "peak": 0.002795,
