@@ -3861,7 +3861,7 @@
   },
   "PEZ_USDT": {
     "peak": 0.002795,
-    "alerted": false
+    "alerted": true
   },
   "UNIPCS_USDT": {
     "peak": 0.002135,
