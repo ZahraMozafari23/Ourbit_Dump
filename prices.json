@@ -3773,7 +3773,7 @@
   },
   "ROBINCAT_USDT": {
     "peak": 0.002899,
-    "alerted": true
+    "alerted": false
   },
   "VLR_USDT": {
     "peak": 0.003755,
