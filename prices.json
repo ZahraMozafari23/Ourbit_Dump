@@ -3621,7 +3621,7 @@
   },
   "EGG_USDT": {
     "peak": 0.004946,
-    "alerted": true
+    "alerted": false
   },
   "BNBCAT_USDT": {
     "peak": 0.005637,
@@ -3857,7 +3857,7 @@
   },
   "STONKS_USDT": {
     "peak": 0.008318,
-    "alerted": true
+    "alerted": false
   },
   "PEZ_USDT": {
     "peak": 0.002795,
@@ -3865,7 +3865,7 @@
   },
   "UNIPCS_USDT": {
     "peak": 0.002135,
-    "alerted": true
+    "alerted": false
   },
   "ZCAT_USDT": {
     "peak": 0.08912,
@@ -3877,7 +3877,7 @@
   },
   "BEN_USDT": {
     "peak": 0.00565,
-    "alerted": true
+    "alerted": false
   },
   "BREW_USDT": {
     "peak": 0.0,
@@ -3889,7 +3889,7 @@
   },
   "VITA_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "CNPY_USDT": {
     "peak": 0.0,
@@ -3897,7 +3897,7 @@
   },
   "SOCK_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "ROUTE_USDT": {
     "peak": 0.0,
