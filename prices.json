@@ -3873,7 +3873,7 @@
   },
   "AST_USDT": {
     "peak": 0.010076,
-    "alerted": false
+    "alerted": true
   },
   "BEN_USDT": {
     "peak": 0.00565,
