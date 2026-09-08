@@ -3897,7 +3897,7 @@
   },
   "SOCK_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "ROUTE_USDT": {
     "peak": 0.0,
