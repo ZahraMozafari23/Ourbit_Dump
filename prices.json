@@ -3829,7 +3829,7 @@
   },
   "GRASSROBINHOOD_USDT": {
     "peak": 0.004133,
-    "alerted": false
+    "alerted": true
   },
   "SHROOM_USDT": {
     "peak": 0.007713,
