@@ -3801,7 +3801,7 @@
   },
   "OPTIMUS_USDT": {
     "peak": 0.00755,
-    "alerted": false
+    "alerted": true
   },
   "CP_USDT": {
     "peak": 0.0,
@@ -3901,7 +3901,7 @@
   },
   "ROUTE_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "4STOCK_USDT": {
     "peak": 0.04826,
