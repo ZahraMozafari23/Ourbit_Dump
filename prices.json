@@ -3781,7 +3781,7 @@
   },
   "OTC_USDT": {
     "peak": 0.006266,
-    "alerted": true
+    "alerted": false
   },
   "SPACEHOOD_USDT": {
     "peak": 0.0167,
