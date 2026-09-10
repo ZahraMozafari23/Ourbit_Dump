@@ -3913,7 +3913,7 @@
   },
   "JACOB_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "DOTBASE_USDT": {
     "peak": 0.0,
