@@ -3837,7 +3837,7 @@
   },
   "FATCOIN_USDT": {
     "peak": 0.00726,
-    "alerted": true
+    "alerted": false
   },
   "MEMEROBINHOOD_USDT": {
     "peak": 0.11193,
@@ -3885,7 +3885,7 @@
   },
   "AGISOL_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "VITA_USDT": {
     "peak": 0.0,
@@ -3909,11 +3909,11 @@
   },
   "BUILD_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "JACOB_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "DOTBASE_USDT": {
     "peak": 0.0,
