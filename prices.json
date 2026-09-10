@@ -3930,5 +3930,9 @@
   "BATON_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "BUYTHECAT_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
