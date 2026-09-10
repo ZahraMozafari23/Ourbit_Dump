@@ -2949,7 +2949,7 @@
   },
   "RIZE_USDT": {
     "peak": 0.009415,
-    "alerted": false
+    "alerted": true
   },
   "BABY_USDT": {
     "peak": 0.01297,
