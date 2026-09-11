@@ -3837,7 +3837,7 @@
   },
   "FATCOIN_USDT": {
     "peak": 0.00726,
-    "alerted": true
+    "alerted": false
   },
   "MEMEROBINHOOD_USDT": {
     "peak": 0.11193,
