@@ -3837,7 +3837,7 @@
   },
   "FATCOIN_USDT": {
     "peak": 0.00726,
-    "alerted": false
+    "alerted": true
   },
   "MEMEROBINHOOD_USDT": {
     "peak": 0.11193,
@@ -3940,6 +3940,10 @@
     "alerted": false
   },
   "FLYBRAIN_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "RAYCAT_USDT": {
     "peak": 0.0,
     "alerted": false
   }
