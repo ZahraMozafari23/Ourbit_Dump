@@ -3938,5 +3938,9 @@
   "VC_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "FLYBRAIN_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
