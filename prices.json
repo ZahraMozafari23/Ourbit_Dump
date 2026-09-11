@@ -3529,7 +3529,7 @@
   },
   "SAFEVANO_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "HMM_USDT": {
     "peak": 0.0,
@@ -3837,7 +3837,7 @@
   },
   "FATCOIN_USDT": {
     "peak": 0.00726,
-    "alerted": true
+    "alerted": false
   },
   "MEMEROBINHOOD_USDT": {
     "peak": 0.11193,
@@ -3861,7 +3861,7 @@
   },
   "PEZ_USDT": {
     "peak": 0.002795,
-    "alerted": true
+    "alerted": false
   },
   "UNIPCS_USDT": {
     "peak": 0.002135,
