@@ -3797,7 +3797,7 @@
   },
   "ORBIO_USDT": {
     "peak": 0.010768,
-    "alerted": false
+    "alerted": true
   },
   "OPTIMUS_USDT": {
     "peak": 0.00755,
