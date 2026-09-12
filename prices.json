@@ -3901,7 +3901,7 @@
   },
   "ROUTE_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "4STOCK_USDT": {
     "peak": 0.04826,
@@ -3945,7 +3945,7 @@
   },
   "RAYCAT_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "CME_USDT": {
     "peak": 0.0,
