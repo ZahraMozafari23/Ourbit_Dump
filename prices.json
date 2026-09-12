@@ -3817,7 +3817,7 @@
   },
   "NUDES_USDT": {
     "peak": 0.013,
-    "alerted": false
+    "alerted": true
   },
   "VISTA_USDT": {
     "peak": 0.002182,
