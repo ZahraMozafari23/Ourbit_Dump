@@ -3954,5 +3954,9 @@
   "EMBER_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "ZZZ_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
