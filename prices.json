@@ -3966,5 +3966,9 @@
   "FUGUIROBINHOOD_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "WALLET_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
