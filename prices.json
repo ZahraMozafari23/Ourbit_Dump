@@ -3645,7 +3645,7 @@
   },
   "DTF_USDT": {
     "peak": 0.0045,
-    "alerted": true
+    "alerted": false
   },
   "MARTIANS_USDT": {
     "peak": 0.0,
