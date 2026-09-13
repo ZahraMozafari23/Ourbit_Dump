@@ -3957,7 +3957,7 @@
   },
   "ZZZ_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "ANTHROPIG_USDT": {
     "peak": 0.0,
