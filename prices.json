@@ -1041,7 +1041,7 @@
   },
   "BR_USDT": {
     "peak": 0.14764,
-    "alerted": false
+    "alerted": true
   },
   "ALLO_USDT": {
     "peak": 0.4032,
