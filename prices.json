@@ -1041,7 +1041,7 @@
   },
   "BR_USDT": {
     "peak": 0.14764,
-    "alerted": true
+    "alerted": false
   },
   "ALLO_USDT": {
     "peak": 0.4032,
@@ -3645,7 +3645,7 @@
   },
   "DTF_USDT": {
     "peak": 0.0045,
-    "alerted": false
+    "alerted": true
   },
   "MARTIANS_USDT": {
     "peak": 0.0,
