@@ -3945,7 +3945,7 @@
   },
   "RAYCAT_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "CME_USDT": {
     "peak": 0.0,
