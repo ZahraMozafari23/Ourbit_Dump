@@ -3661,7 +3661,7 @@
   },
   "MEMESTOCK_USDT": {
     "peak": 0.004379,
-    "alerted": false
+    "alerted": true
   },
   "DEBIT_USDT": {
     "peak": 0.0,
