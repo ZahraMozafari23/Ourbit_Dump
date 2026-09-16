@@ -4006,5 +4006,9 @@
   "MUSEBOOK_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "ARGUS_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
