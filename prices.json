@@ -3994,5 +3994,9 @@
   "ALLINU_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "GUOYING_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
