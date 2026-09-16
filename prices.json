@@ -3941,7 +3941,7 @@
   },
   "FLYBRAIN_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "RAYCAT_USDT": {
     "peak": 0.0,
