@@ -3045,7 +3045,7 @@
   },
   "AIN_USDT": {
     "peak": 0.07057,
-    "alerted": true
+    "alerted": false
   },
   "GUA_USDT": {
     "peak": 0.053415,
@@ -3661,7 +3661,7 @@
   },
   "MEMESTOCK_USDT": {
     "peak": 0.004379,
-    "alerted": true
+    "alerted": false
   },
   "DEBIT_USDT": {
     "peak": 0.0,
@@ -3929,7 +3929,7 @@
   },
   "BATON_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "BUYTHECAT_USDT": {
     "peak": 0.0,
@@ -3941,7 +3941,7 @@
   },
   "FLYBRAIN_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "RAYCAT_USDT": {
     "peak": 0.0,
