@@ -4010,5 +4010,9 @@
   "ARGUS_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "TOLLY_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
