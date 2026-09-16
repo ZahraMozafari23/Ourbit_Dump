@@ -3045,7 +3045,7 @@
   },
   "AIN_USDT": {
     "peak": 0.07057,
-    "alerted": false
+    "alerted": true
   },
   "GUA_USDT": {
     "peak": 0.053415,
