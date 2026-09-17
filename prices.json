@@ -3853,7 +3853,7 @@
   },
   "OTER_USDT": {
     "peak": 0.01136,
-    "alerted": false
+    "alerted": true
   },
   "STONKS_USDT": {
     "peak": 0.008318,
