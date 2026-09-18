@@ -4017,7 +4017,7 @@
   },
   "COOL_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "PEACH_USDT": {
     "peak": 0.0,
@@ -4025,7 +4025,7 @@
   },
   "UPSIDEDOWNCAT_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "NOTE_USDT": {
     "peak": 0.0,
