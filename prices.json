@@ -4054,5 +4054,9 @@
   "BELLS_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "PERPSPAD_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
