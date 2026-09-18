@@ -4038,5 +4038,9 @@
   "DINGO_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "RUNESCAPEGOLD_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
