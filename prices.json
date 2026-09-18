@@ -4030,5 +4030,9 @@
   "NOTE_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "GSTOCK_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
