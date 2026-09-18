@@ -4046,5 +4046,9 @@
   "INU_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "SCHIFFY_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
