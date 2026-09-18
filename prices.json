@@ -2725,7 +2725,7 @@
   },
   "UDS_USDT": {
     "peak": 1.1207,
-    "alerted": false
+    "alerted": true
   },
   "SKY_USDT": {
     "peak": 0.06022,
