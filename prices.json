@@ -4070,5 +4070,9 @@
   "NEOFUN_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "LKY_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
