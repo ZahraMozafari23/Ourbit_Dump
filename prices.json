@@ -3813,7 +3813,7 @@
   },
   "CRUDECAT_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "NUDES_USDT": {
     "peak": 0.013,
