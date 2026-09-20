@@ -3997,7 +3997,7 @@
   },
   "GUOYING_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "DGAI_USDT": {
     "peak": 0.0,
