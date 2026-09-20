@@ -2389,7 +2389,7 @@
   },
   "WMTX_USDT": {
     "peak": 0.02888,
-    "alerted": true
+    "alerted": false
   },
   "DN_USDT": {
     "peak": 0.0826,
