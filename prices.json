@@ -3529,7 +3529,7 @@
   },
   "SAFEVANO_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "HMM_USDT": {
     "peak": 0.0,
@@ -3997,7 +3997,7 @@
   },
   "GUOYING_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "DGAI_USDT": {
     "peak": 0.0,
@@ -4005,7 +4005,7 @@
   },
   "MUSEBOOK_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "ARGUS_USDT": {
     "peak": 0.0,
