@@ -2389,7 +2389,7 @@
   },
   "WMTX_USDT": {
     "peak": 0.02888,
-    "alerted": true
+    "alerted": false
   },
   "DN_USDT": {
     "peak": 0.0826,
@@ -4065,7 +4065,7 @@
   },
   "TILCAYO_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "NEOFUN_USDT": {
     "peak": 0.0,
