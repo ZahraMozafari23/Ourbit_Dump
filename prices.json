@@ -4005,7 +4005,7 @@
   },
   "MUSEBOOK_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "ARGUS_USDT": {
     "peak": 0.0,
@@ -4077,7 +4077,7 @@
   },
   "ASKR_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "JEANPHIL_USDT": {
     "peak": 0.0,
