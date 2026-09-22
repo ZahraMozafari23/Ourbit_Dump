@@ -4086,5 +4086,9 @@
   "FLR_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "SHIC_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
