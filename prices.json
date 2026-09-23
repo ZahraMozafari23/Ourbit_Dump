@@ -4098,5 +4098,9 @@
   "NOSH_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "AGRIPPA_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
