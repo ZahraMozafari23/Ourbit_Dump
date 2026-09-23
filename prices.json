@@ -4090,5 +4090,9 @@
   "SHIC_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "MONITOR_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
