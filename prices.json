@@ -541,7 +541,7 @@
   },
   "Q_USDT": {
     "peak": 0.019253,
-    "alerted": true
+    "alerted": false
   },
   "AZTEC_USDT": {
     "peak": 0.01333,
