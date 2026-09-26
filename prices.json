@@ -4109,7 +4109,7 @@
   },
   "LESGO_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "IMD_USDT": {
     "peak": 0.0,
