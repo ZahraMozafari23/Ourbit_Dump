@@ -4118,5 +4118,9 @@
   "EACC_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "SI_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
