@@ -1829,7 +1829,7 @@
   },
   "CYDX_USDT": {
     "peak": 0.1823588,
-    "alerted": false
+    "alerted": true
   },
   "M_USDT": {
     "peak": 1.14395,
