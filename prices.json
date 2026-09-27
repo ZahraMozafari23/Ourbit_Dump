@@ -4126,5 +4126,9 @@
   "SHORT_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "CASHED_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
