@@ -4122,5 +4122,9 @@
   "SI_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "SHORT_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
