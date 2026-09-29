@@ -3709,7 +3709,7 @@
   },
   "CHUMP_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "WEBCADE_USDT": {
     "peak": 0.005207,
