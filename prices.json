@@ -4154,5 +4154,9 @@
   "ZC_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "STOCKER_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
