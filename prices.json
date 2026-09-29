@@ -4170,5 +4170,9 @@
   "SQQQB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "MRNAB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
