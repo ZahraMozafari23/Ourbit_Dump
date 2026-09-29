@@ -3989,7 +3989,7 @@
   },
   "PAID_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "ALLINU_USDT": {
     "peak": 0.0,
