@@ -4158,5 +4158,9 @@
   "STOCKER_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "DJTB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
