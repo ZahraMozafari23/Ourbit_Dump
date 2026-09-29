@@ -4105,7 +4105,7 @@
   },
   "SHARTCOIN_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "LESGO_USDT": {
     "peak": 0.0,
@@ -4172,6 +4172,14 @@
     "alerted": false
   },
   "MRNAB_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "STXB_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "CRMB_USDT": {
     "peak": 0.0,
     "alerted": false
   }
