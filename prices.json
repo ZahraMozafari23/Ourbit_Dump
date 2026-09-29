@@ -3457,7 +3457,7 @@
   },
   "CGFY_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "ALABB_USDT": {
     "peak": 0.0,
