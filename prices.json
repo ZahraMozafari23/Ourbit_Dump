@@ -3969,7 +3969,7 @@
   },
   "WALLET_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "BEM_USDT": {
     "peak": 0.0,
