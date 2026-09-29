@@ -3457,7 +3457,7 @@
   },
   "CGFY_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "ALABB_USDT": {
     "peak": 0.0,
@@ -3949,7 +3949,7 @@
   },
   "CME_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "EMBER_USDT": {
     "peak": 0.0,
@@ -3989,7 +3989,7 @@
   },
   "PAID_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "ALLINU_USDT": {
     "peak": 0.0,
