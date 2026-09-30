@@ -4202,5 +4202,13 @@
   "GPROB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "AMCB_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "CYPHB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
