@@ -4214,5 +4214,9 @@
   "AGPUB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "VRAX_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
