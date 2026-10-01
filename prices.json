@@ -4246,5 +4246,9 @@
   "WENB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "ZMB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
