@@ -4222,5 +4222,13 @@
   "CT_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "ADBEB_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "FWDIB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
