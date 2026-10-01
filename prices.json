@@ -4230,5 +4230,9 @@
   "FWDIB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "HPEB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
