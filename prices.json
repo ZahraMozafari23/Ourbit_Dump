@@ -641,7 +641,7 @@
   },
   "LONGXIA_USDT": {
     "peak": 0.016152,
-    "alerted": true
+    "alerted": false
   },
   "SUPERFORM_USDT": {
     "peak": 0.06074,
@@ -4217,7 +4217,7 @@
   },
   "VRAX_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "CT_USDT": {
     "peak": 0.0,
