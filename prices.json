@@ -641,7 +641,7 @@
   },
   "LONGXIA_USDT": {
     "peak": 0.016152,
-    "alerted": false
+    "alerted": true
   },
   "SUPERFORM_USDT": {
     "peak": 0.06074,
