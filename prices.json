@@ -4258,5 +4258,9 @@
   "GM_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "WANGCHAI_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
