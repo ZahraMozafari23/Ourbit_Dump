@@ -3977,7 +3977,7 @@
   },
   "MOTO_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "STANDARD_USDT": {
     "peak": 0.0,
