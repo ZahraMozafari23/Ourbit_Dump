@@ -4266,5 +4266,9 @@
   "HOOKED_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "MOE_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
