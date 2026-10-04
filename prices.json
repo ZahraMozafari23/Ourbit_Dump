@@ -4270,5 +4270,9 @@
   "MOE_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "AGENCY_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
