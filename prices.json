@@ -445,7 +445,7 @@
   },
   "SHRD_USDT": {
     "peak": 0.04239,
-    "alerted": true
+    "alerted": false
   },
   "WOJAK_USDT": {
     "peak": 5.754e-08,
@@ -4257,7 +4257,7 @@
   },
   "GM_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "WANGCHAI_USDT": {
     "peak": 0.0,
