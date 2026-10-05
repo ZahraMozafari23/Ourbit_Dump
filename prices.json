@@ -445,7 +445,7 @@
   },
   "SHRD_USDT": {
     "peak": 0.04239,
-    "alerted": true
+    "alerted": false
   },
   "WOJAK_USDT": {
     "peak": 5.754e-08,
@@ -2681,7 +2681,7 @@
   },
   "FAIR3_USDT": {
     "peak": 0.0004408,
-    "alerted": true
+    "alerted": false
   },
   "PENDLE_USDT": {
     "peak": 1.565,
