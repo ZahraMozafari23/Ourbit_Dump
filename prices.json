@@ -2681,7 +2681,7 @@
   },
   "FAIR3_USDT": {
     "peak": 0.0004408,
-    "alerted": false
+    "alerted": true
   },
   "PENDLE_USDT": {
     "peak": 1.565,
