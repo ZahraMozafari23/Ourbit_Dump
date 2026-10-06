@@ -4277,7 +4277,7 @@
   },
   "KNIGHTCAT_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "FODA_USDT": {
     "peak": 0.0,
