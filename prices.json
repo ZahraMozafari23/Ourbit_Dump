@@ -3793,7 +3793,7 @@
   },
   "UBIK_USDT": {
     "peak": 0.005085,
-    "alerted": false
+    "alerted": true
   },
   "ORBIO_USDT": {
     "peak": 0.010768,
