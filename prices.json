@@ -445,7 +445,7 @@
   },
   "SHRD_USDT": {
     "peak": 0.04239,
-    "alerted": true
+    "alerted": false
   },
   "WOJAK_USDT": {
     "peak": 5.754e-08,
@@ -4273,11 +4273,11 @@
   },
   "AGENCY_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "KNIGHTCAT_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "FODA_USDT": {
     "peak": 0.0,
