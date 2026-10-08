@@ -4306,5 +4306,9 @@
   "ANVL_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "DARKSWAP_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
