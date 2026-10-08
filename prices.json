@@ -4286,5 +4286,21 @@
   "CLAUS_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "LLYB_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "JPMB_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "SECZB_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "USDEB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
