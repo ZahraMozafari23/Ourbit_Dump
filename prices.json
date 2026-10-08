@@ -4302,5 +4302,9 @@
   "USDEB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "ANVL_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
