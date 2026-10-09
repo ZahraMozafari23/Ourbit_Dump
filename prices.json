@@ -4310,5 +4310,9 @@
   "DARKSWAP_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "HEEHAW_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
