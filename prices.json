@@ -4313,7 +4313,7 @@
   },
   "HEEHAW_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "METY_USDT": {
     "peak": 0.0,
