@@ -4325,7 +4325,7 @@
   },
   "LOAD_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "BORDR_USDT": {
     "peak": 0.0,
