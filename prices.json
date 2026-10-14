@@ -4330,5 +4330,9 @@
   "BORDR_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "VEIL_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
