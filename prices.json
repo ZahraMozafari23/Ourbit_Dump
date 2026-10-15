@@ -4338,5 +4338,9 @@
   "QTC_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "WOLFPACK_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
