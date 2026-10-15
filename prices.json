@@ -4333,7 +4333,7 @@
   },
   "VEIL_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "QTC_USDT": {
     "peak": 0.0,
@@ -4348,6 +4348,14 @@
     "alerted": false
   },
   "BBB_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "PENGB_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "MDBB_USDT": {
     "peak": 0.0,
     "alerted": false
   }
