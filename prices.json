@@ -4342,5 +4342,9 @@
   "WOLFPACK_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "HXMAX_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
