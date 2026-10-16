@@ -4366,5 +4366,9 @@
   "DOPE_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "DNA_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
