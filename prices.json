@@ -4370,5 +4370,9 @@
   "DNA_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "QCAT_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
