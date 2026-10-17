@@ -4333,7 +4333,7 @@
   },
   "VEIL_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "QTC_USDT": {
     "peak": 0.0,
