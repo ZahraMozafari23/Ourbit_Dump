@@ -4390,5 +4390,9 @@
   "QUANTUS_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "KIMCHI_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
