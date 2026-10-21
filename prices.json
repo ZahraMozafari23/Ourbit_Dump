@@ -3725,7 +3725,7 @@
   },
   "PROLOGUE_USDT": {
     "peak": 0.00885,
-    "alerted": false
+    "alerted": true
   },
   "HUDIERENSHENG_USDT": {
     "peak": 0.005324,
