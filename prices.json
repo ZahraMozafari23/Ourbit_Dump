@@ -4398,5 +4398,9 @@
   "AXIS_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "ESTV_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
