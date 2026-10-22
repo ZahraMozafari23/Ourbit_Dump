@@ -3529,7 +3529,7 @@
   },
   "SAFEVANO_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "HMM_USDT": {
     "peak": 0.0,
@@ -4281,7 +4281,7 @@
   },
   "FODA_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "CLAUS_USDT": {
     "peak": 0.0,
@@ -4329,7 +4329,7 @@
   },
   "BORDR_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "VEIL_USDT": {
     "peak": 0.0,
