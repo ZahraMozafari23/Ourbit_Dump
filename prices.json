@@ -4405,7 +4405,7 @@
   },
   "RAETO_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "BOTB_USDT": {
     "peak": 0.0,
