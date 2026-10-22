@@ -4410,5 +4410,13 @@
   "BOTB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "BRKBB_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "KSTRB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
