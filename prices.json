@@ -4426,5 +4426,9 @@
   "VSTB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "TART_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
