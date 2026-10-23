@@ -473,7 +473,7 @@
   },
   "BTX_USDT": {
     "peak": 0.02488,
-    "alerted": false
+    "alerted": true
   },
   "PYTHIA_USDT": {
     "peak": 0.01826,
