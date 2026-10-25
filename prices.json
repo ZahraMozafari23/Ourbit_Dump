@@ -4281,7 +4281,7 @@
   },
   "FODA_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "CLAUS_USDT": {
     "peak": 0.0,
