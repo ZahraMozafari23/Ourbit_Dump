@@ -445,7 +445,7 @@
   },
   "SHRD_USDT": {
     "peak": 0.04239,
-    "alerted": false
+    "alerted": true
   },
   "WOJAK_USDT": {
     "peak": 5.754e-08,
