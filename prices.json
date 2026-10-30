@@ -4261,7 +4261,7 @@
   },
   "WANGCHAI_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "HOOKED_USDT": {
     "peak": 0.0,
@@ -4433,7 +4433,7 @@
   },
   "GANG_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "PANGEA_USDT": {
     "peak": 0.0,
