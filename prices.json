@@ -3705,7 +3705,7 @@
   },
   "MICRODUCK_USDT": {
     "peak": 0.01726,
-    "alerted": false
+    "alerted": true
   },
   "CHUMP_USDT": {
     "peak": 0.0,
@@ -4433,7 +4433,7 @@
   },
   "GANG_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "PANGEA_USDT": {
     "peak": 0.0,
