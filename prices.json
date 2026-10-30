@@ -4458,5 +4458,13 @@
   "GEVB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "BSPB_USDT": {
+    "peak": 0.0,
+    "alerted": false
+  },
+  "APPB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
