@@ -4442,5 +4442,9 @@
   "JAGENT_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "ABYSS_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
