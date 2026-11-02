@@ -4470,5 +4470,9 @@
   "AMBIREWALLET_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "GATO_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
