@@ -4466,5 +4466,9 @@
   "APPB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "AMBIREWALLET_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
