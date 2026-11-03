@@ -4478,5 +4478,9 @@
   "FOREVER_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "FLOAT_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
