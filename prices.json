@@ -4474,5 +4474,9 @@
   "GATO_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "FOREVER_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
