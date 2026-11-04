@@ -4486,5 +4486,9 @@
   "CHOO_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "KOR_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
