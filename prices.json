@@ -1181,7 +1181,7 @@
   },
   "AOP_USDT": {
     "peak": 0.03938,
-    "alerted": true
+    "alerted": false
   },
   "CRV_USDT": {
     "peak": 0.2168,
@@ -2961,7 +2961,7 @@
   },
   "QFI_USDT": {
     "peak": 63.84,
-    "alerted": true
+    "alerted": false
   },
   "JCT_USDT": {
     "peak": 0.003957,
@@ -3745,7 +3745,7 @@
   },
   "BONER_USDT": {
     "peak": 0.01538,
-    "alerted": true
+    "alerted": false
   },
   "TTWO_USDT": {
     "peak": 249.67,
@@ -4281,7 +4281,7 @@
   },
   "FODA_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "CLAUS_USDT": {
     "peak": 0.0,
@@ -4489,6 +4489,6 @@
   },
   "KOR_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   }
 }
