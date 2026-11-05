@@ -3745,7 +3745,7 @@
   },
   "BONER_USDT": {
     "peak": 0.01538,
-    "alerted": false
+    "alerted": true
   },
   "TTWO_USDT": {
     "peak": 249.67,
