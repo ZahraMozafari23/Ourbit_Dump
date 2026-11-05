@@ -1181,7 +1181,7 @@
   },
   "AOP_USDT": {
     "peak": 0.03938,
-    "alerted": false
+    "alerted": true
   },
   "CRV_USDT": {
     "peak": 0.2168,
