@@ -445,7 +445,7 @@
   },
   "SHRD_USDT": {
     "peak": 0.04239,
-    "alerted": true
+    "alerted": false
   },
   "WOJAK_USDT": {
     "peak": 5.754e-08,
@@ -2961,7 +2961,7 @@
   },
   "QFI_USDT": {
     "peak": 63.84,
-    "alerted": true
+    "alerted": false
   },
   "JCT_USDT": {
     "peak": 0.003957,
@@ -4317,7 +4317,7 @@
   },
   "METY_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "CLAUDIA_USDT": {
     "peak": 0.0,
