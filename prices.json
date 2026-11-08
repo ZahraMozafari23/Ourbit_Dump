@@ -4490,5 +4490,9 @@
   "KOR_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "FOBO_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
