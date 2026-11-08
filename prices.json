@@ -4317,7 +4317,7 @@
   },
   "METY_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "CLAUDIA_USDT": {
     "peak": 0.0,
@@ -4345,7 +4345,7 @@
   },
   "HXMAX_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "BBB_USDT": {
     "peak": 0.0,
