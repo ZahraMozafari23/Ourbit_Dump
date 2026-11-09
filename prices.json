@@ -4373,7 +4373,7 @@
   },
   "QCAT_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "SAUCE_USDT": {
     "peak": 0.0,
