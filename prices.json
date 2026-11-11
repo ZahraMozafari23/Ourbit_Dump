@@ -4502,5 +4502,9 @@
   "KNTQ_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "MIHAO_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
