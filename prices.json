@@ -2965,7 +2965,7 @@
   },
   "JCT_USDT": {
     "peak": 0.003957,
-    "alerted": false
+    "alerted": true
   },
   "PYBOBO_USDT": {
     "peak": 0.0006456,
