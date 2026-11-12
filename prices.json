@@ -4385,7 +4385,7 @@
   },
   "DACITY_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "QUANTUS_USDT": {
     "peak": 0.0,
