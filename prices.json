@@ -1029,7 +1029,7 @@
   },
   "KONET_USDT": {
     "peak": 0.0157,
-    "alerted": true
+    "alerted": false
   },
   "PEPECOIN_USDT": {
     "peak": 0.0603,
