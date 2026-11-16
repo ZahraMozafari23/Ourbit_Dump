@@ -2713,7 +2713,7 @@
   },
   "BULLA_USDT": {
     "peak": 0.008847,
-    "alerted": false
+    "alerted": true
   },
   "XAUT_USDT": {
     "peak": 4019.3,
