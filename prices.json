@@ -4513,7 +4513,7 @@
   },
   "INFI_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "UBO_USDT": {
     "peak": 0.0,
