@@ -4530,5 +4530,9 @@
   "EWTB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "EWZSB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
