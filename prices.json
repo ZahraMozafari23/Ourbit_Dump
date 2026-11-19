@@ -4509,7 +4509,7 @@
   },
   "DACITYCOIN_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "INFI_USDT": {
     "peak": 0.0,
