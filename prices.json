@@ -4546,5 +4546,9 @@
   "MELIB_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "NUB_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
