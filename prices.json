@@ -705,7 +705,7 @@
   },
   "SNDKB_USDT": {
     "peak": 1493.82,
-    "alerted": false
+    "alerted": true
   },
   "ZRC_USDT": {
     "peak": 0.00093,
