@@ -4521,7 +4521,7 @@
   },
   "DCTY_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "EWJB_USDT": {
     "peak": 0.0,
