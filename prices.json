@@ -705,7 +705,7 @@
   },
   "SNDKB_USDT": {
     "peak": 1493.82,
-    "alerted": true
+    "alerted": false
   },
   "ZRC_USDT": {
     "peak": 0.00093,
@@ -1125,7 +1125,7 @@
   },
   "AKE_USDT": {
     "peak": 0.0014254,
-    "alerted": true
+    "alerted": false
   },
   "GODS_USDT": {
     "peak": 0.02369,
@@ -4521,7 +4521,7 @@
   },
   "DCTY_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "EWJB_USDT": {
     "peak": 0.0,
