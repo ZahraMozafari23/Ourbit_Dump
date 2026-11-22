@@ -105,7 +105,7 @@
   },
   "EVAA_USDT": {
     "peak": 0.9018,
-    "alerted": true
+    "alerted": false
   },
   "UNHON_USDT": {
     "peak": 440.75,
