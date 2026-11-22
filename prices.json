@@ -1125,7 +1125,7 @@
   },
   "AKE_USDT": {
     "peak": 0.0014254,
-    "alerted": false
+    "alerted": true
   },
   "GODS_USDT": {
     "peak": 0.02369,
