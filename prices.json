@@ -1169,7 +1169,7 @@
   },
   "FSTR_USDT": {
     "peak": 0.0007067,
-    "alerted": true
+    "alerted": false
   },
   "DEEP_USDT": {
     "peak": 0.017454,
@@ -1829,7 +1829,7 @@
   },
   "CYDX_USDT": {
     "peak": 0.1823588,
-    "alerted": true
+    "alerted": false
   },
   "M_USDT": {
     "peak": 1.14395,
@@ -4341,7 +4341,7 @@
   },
   "WOLFPACK_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "HXMAX_USDT": {
     "peak": 0.0,
@@ -4441,7 +4441,7 @@
   },
   "JAGENT_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "ABYSS_USDT": {
     "peak": 0.0,
@@ -4557,6 +4557,6 @@
   },
   "CORA_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   }
 }
