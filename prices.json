@@ -1169,7 +1169,7 @@
   },
   "FSTR_USDT": {
     "peak": 0.0007067,
-    "alerted": false
+    "alerted": true
   },
   "DEEP_USDT": {
     "peak": 0.017454,
