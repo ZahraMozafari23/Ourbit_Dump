@@ -21,7 +21,7 @@
   },
   "ANSEM_USDT": {
     "peak": 0.21236,
-    "alerted": true
+    "alerted": false
   },
   "LAB_USDT": {
     "peak": 0.1914,
