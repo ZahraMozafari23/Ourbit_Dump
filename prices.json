@@ -4253,7 +4253,7 @@
   },
   "PRIORS_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "GM_USDT": {
     "peak": 0.0,
