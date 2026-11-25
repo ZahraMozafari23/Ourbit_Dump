@@ -4441,7 +4441,7 @@
   },
   "JAGENT_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "ABYSS_USDT": {
     "peak": 0.0,
