@@ -93,7 +93,7 @@
   },
   "SHARE_USDT": {
     "peak": 0.2146,
-    "alerted": false
+    "alerted": true
   },
   "IWMON_USDT": {
     "peak": 296.84,
