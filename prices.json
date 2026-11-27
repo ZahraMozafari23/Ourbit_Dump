@@ -105,7 +105,7 @@
   },
   "EVAA_USDT": {
     "peak": 0.9018,
-    "alerted": true
+    "alerted": false
   },
   "UNHON_USDT": {
     "peak": 440.75,
@@ -4557,7 +4557,7 @@
   },
   "CORA_USDT": {
     "peak": 0.0,
-    "alerted": true
+    "alerted": false
   },
   "MONTRA_USDT": {
     "peak": 0.0,
