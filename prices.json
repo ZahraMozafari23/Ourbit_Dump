@@ -4562,5 +4562,9 @@
   "MONTRA_USDT": {
     "peak": 0.0,
     "alerted": false
+  },
+  "LIQUIDV_USDT": {
+    "peak": 0.0,
+    "alerted": false
   }
 }
