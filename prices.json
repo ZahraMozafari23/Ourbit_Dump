@@ -4557,7 +4557,7 @@
   },
   "CORA_USDT": {
     "peak": 0.0,
-    "alerted": false
+    "alerted": true
   },
   "MONTRA_USDT": {
     "peak": 0.0,
