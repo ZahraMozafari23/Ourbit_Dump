@@ -917,7 +917,7 @@
   },
   "WLFI_USDT": {
     "peak": 0.0574,
-    "alerted": true
+    "alerted": false
   },
   "ASTEROIDETH_USDT": {
     "peak": 6.316e-05,
